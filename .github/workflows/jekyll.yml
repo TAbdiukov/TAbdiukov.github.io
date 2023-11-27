@@ -56,7 +56,7 @@ jobs:
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
         run: | 
-          echo "The base URL is ${{ steps.pages.outputs.base_url }} && \" 
+          echo "The base URL is ${{ steps.pages.outputs.base_url }} && \ 
             hugo \
             --gc \
             --minify \
