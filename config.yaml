@@ -34,6 +34,3 @@ params:
     - name: RSS
       icon: fas fa-rss
       url: /index.xml
-    - name: facebook_admin
-      icon: fab fa-facebook
-      url: ""
