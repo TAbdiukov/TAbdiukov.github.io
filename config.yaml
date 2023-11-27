@@ -1,7 +1,7 @@
 baseURL: https://open.id.au/
 disablePathToLower: true
 languageCode: en-AU
-title: Tim's blog
+title: Tim Abdiukov's blog
 author: Tim Abdiukov
 
 markup:
