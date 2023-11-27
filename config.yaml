@@ -15,7 +15,7 @@ markup:
 paginate: 100
 
 # vitae theme settings
-theme: hugo-vitae-norden
+theme: hugo-vitae-nord
 favicon: true
 
 copyright: "Personal blog of Tim Abdiukov"
