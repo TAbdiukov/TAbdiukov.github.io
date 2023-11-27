@@ -1,7 +1,7 @@
 baseURL: https://open.id.au/
 disablePathToLower: true
 languageCode: en-AU
-title: TAbdiukov's blog
+title: Tim Abdiukov's blog
 author: Tim Abdiukov
 
 markup:
@@ -15,7 +15,7 @@ markup:
 paginate: 100
 
 # vitae theme settings
-theme: hugo-vitae
+theme: hugo-vitae-norden
 favicon: true
 
 copyright: "Personal blog of Tim Abdiukov"

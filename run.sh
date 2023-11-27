@@ -1,2 +1,2 @@
 #!/bin/bash
-hugo server -D -F --theme=hugo-vitae
+hugo server -D -F --theme=hugo-vitae-norden
