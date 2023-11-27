@@ -7,9 +7,11 @@ tags: [blog, web]
 image: Earth_from_Space.jpg
 ---
 
+![Earth](Earth_from_Space.jpg)
+
 Hello World
 
-# Meaning
+# Trivia
 
 This is the beginning of my blog.
 
