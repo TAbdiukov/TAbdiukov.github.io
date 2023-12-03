@@ -7,11 +7,10 @@ tags: [blog, web]
 image: Earth_from_Space.jpg
 ---
 
-![Earth](Earth_from_Space.jpg)
-
-Hello World
+[![Earth](Earth_from_Space.jpg)](https://www.youtube.com/watch?v=tiWYyDRwl7w) | 
+---- | 
+*Hello World*
 
 # Trivia
 
-This is the beginning of my blog.
-
+The blog was officially launched on 27.11.
