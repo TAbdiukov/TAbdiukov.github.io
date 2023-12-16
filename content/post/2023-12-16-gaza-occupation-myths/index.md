@@ -76,13 +76,9 @@ So the poverty and unemployment of Gaza are a consequence not of the Israeli blo
 
 International law does not require any country, including Israel, to have an open border with an independent territory where a hostile population lives.
 
+[**☆**] The border between Gaza and Egypt remains closed most of the time, however, it's never a news topic. Arabs #1 cannot get along with Arabs #2 and maybe this means something.
+
 No defensive measures taken in response to enemy attacks are qualified by international law to be a collective punishment.
-
-[**☆**] The original article somewhat puts aside the issue of collective punishment or responsibility. Even though this is a difficult subject, let us consider collective responsibility as a thought experiment, does it really exist?
-* From the religious respective, it absolutely does. In both Judaism and Christianity, the entire nations were punished for the national sin, e.g. Sodom and Gomorrah. In Islam, some groups of people (e.g. [Turks](https://sunnah.com/bukhari:3587)) have to suffer at least once, regardless, before the apocalypse.
-* Secondly, from a humanitarian perspective, we understand and acknowledge that certain nations, e.g., Germans, suffer for multiple generations for the wrongdoing of their ancestors, who committed acts found to be conscious, inhumane, and immoral.
-
-[**☆**] The border between Gaza and Egypt remains closed most of the time, however, it's never a news toppic. Arabs #1 cannot get along with Arabs #2 and maybe this means something.
 
 All the while the so-called 'blockade' lasts, a flow of products, things, materials from Egypt, from Israel, from the sea flows into Gaza, partly smuggled, partly as part of humanitarian aid. Israel is constantly creating humanitarian corridors. What are the materials obtained through these corridors used for? You guessed it, to create rockets and tunnels, to hold children's camps in which five-year-olds march with machine guns and shout "Death to Israel!", and teenagers train to kill. Yet Israel periodically allows these materials into Gaza, allows Palestinians into Israeli hospitals, allows family reunifications - finding out time and time again that none of its kind gestures are reciprocated; yet choose to do them again and again in order to act kindly, mercifully, and humanely.
 
