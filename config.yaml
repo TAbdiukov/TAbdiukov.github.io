@@ -20,6 +20,11 @@ favicon: true
 
 copyright: "Personal blog of Tim Abdiukov"
 
+# mounts
+module:
+  mounts:
+  - source: share
+    target: share
 
 # social links
 

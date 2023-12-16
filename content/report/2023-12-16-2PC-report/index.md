@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2 PCs – AIDA64 reports"
+title:  "2 PCs – technical reports"
 date:   2023-12-16 09:05:00 +0100
 categories: report
 tags: [tech, hardware, windows, liveusb]
@@ -14,12 +14,12 @@ subtitle: AIDA64, CPU-Z, general info
 
 # CPU-Z
 
-* [PC #1 (509kb)](./A-PC-CPU-Z.htm)
-* [PC #2 (495kb)](./T-PC-CPU-Z.htm)
+* [PC #1 (149kb)](./A-PC-CPU-Z.htm)
+* [PC #2 (176kb)](./T-PC-CPU-Z.htm)
 
 # General info
 
-#### PC 1
+## PC #1
 
 ![A-PC-CPU-Z](./A-PC-CPU-Z.PNG)
 
@@ -35,11 +35,11 @@ subtitle: AIDA64, CPU-Z, general info
 
 Motherboard is OK, CPU is OK, everything is OK.
 
-#### PC 2
+## PC #2
 
 ![T-PC-CPU-Z](./T-PC-CPU-Z.PNG)
 
-**No PSU, No RAM (DDR3).** 
+**No PSU *(repurposed elsewhere)*, No RAM (DDR3).** 
 
 * Motherboard: 	Gigabyte GA-970A-D3 (BIOS settings were reset)
 * CPU: 	QuadCore AMD Phenom II X4 Black Edition 955, 3222 MHz (16 x 201)
