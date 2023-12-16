@@ -1,7 +1,7 @@
 baseURL: https://open.id.au/
 disablePathToLower: true
 languageCode: en-AU
-title: Tim Abdiukov's blog
+title: Tim Abdiukov
 author: Tim Abdiukov
 
 markup:
@@ -20,11 +20,6 @@ favicon: true
 
 copyright: "Personal blog of Tim Abdiukov"
 
-# mounts
-module:
-  mounts:
-  - source: share
-    target: share
 
 # social links
 
