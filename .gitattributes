@@ -1,2 +1,3 @@
 # yaml prep
 *.yaml linguist-detectable
+content/report/** export-ignore
