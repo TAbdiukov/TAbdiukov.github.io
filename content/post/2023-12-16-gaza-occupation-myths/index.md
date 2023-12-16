@@ -8,9 +8,9 @@ image:
 subtitle: Crash course. Translated from an anonymous telegra.ph post 
 ---
 
-Crash course. Translated from an anonymous telegra.ph post.
+Crash course. Translated from an anonymous `telegra.ph` post.
 
-I took the liberty to enhance information with more details. Most such details are marked with: **☆** or [**☆** *section*].
+I took the liberty to enhance information with more details. Most such details are marked with: **☆**.
 
 # Myth 1/4: Israel occupied Gaza.
 
