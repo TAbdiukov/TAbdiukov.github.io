@@ -7,19 +7,19 @@ tags: [tech, hardware, windows, liveusb]
 subtitle: AIDA64, CPU-Z, general info
 ---
 
-#  AIDA64
+##  AIDA64
 
 * [PC #1 (509kb)](./A-PC-AIDA64.htm)
 * [PC #2 (495kb)](./T-PC-AIDA64.htm)
 
-# CPU-Z
+## CPU-Z
 
 * [PC #1 (149kb)](./A-PC-CPU-Z.htm)
 * [PC #2 (176kb)](./T-PC-CPU-Z.htm)
 
-# General info
+## General info
 
-## PC #1
+### PC #1
 
 ![A-PC-CPU-Z](./A-PC-CPU-Z.PNG)
 
@@ -35,7 +35,7 @@ subtitle: AIDA64, CPU-Z, general info
 
 Motherboard is OK, CPU is OK, everything is OK.
 
-## PC #2
+### PC #2
 
 ![T-PC-CPU-Z](./T-PC-CPU-Z.PNG)
 
