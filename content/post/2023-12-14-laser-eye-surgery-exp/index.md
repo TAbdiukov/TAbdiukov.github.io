@@ -12,10 +12,10 @@ I had a laser eye surgery and here are my experiences.
 
 ![Almaz](icyfractal7.jpg)
 
-> *Diamanten flirrt das Mondlicht,*
-> *Diamanten strahlt die Höh,*
-> *Diamanten sprühn die Bäume,*
-> *Diamanten glüht der Schnee ...*
+> *Diamanten flirrt das Mondlicht,*  
+> *Diamanten strahlt die Höh,*  
+> *Diamanten sprühn die Bäume,*  
+> *Diamanten glüht der Schnee ...*  
 
 ## How I developed bad shortsightedness before adulthood
 ***Feel free to skip this section***
