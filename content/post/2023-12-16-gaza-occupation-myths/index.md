@@ -47,12 +47,11 @@ And then October 7, 2023 came. 1400 killed, raped, stabbed, burned, tortured Isr
 	> I must admit I was a little surprised. Because when I call down here to my Palestinian friends, they tell me about all the problems and deficiencies, so I expected that the crisis was a little more clear.
 	
 	![woman](./gazaveg2.jpg)
-
-	> And the first woman we interviewed in the market confirms this strange, contradictory, negative mindset:  
-	>   
-	> "We have nothing," she said. We need everything! Food, drinks ... everything! "  
-	>   
-	> It disturbed her not at least that she stood between the mountains of vegetables, fruit, eggs, poultry and fish, while she spun this doomsday scenario.  
+	> And the first woman we interviewed in the market confirms this strange, contradictory, negative mindset:
+	> 
+	>  "We have nothing," she said. We need everything! Food, drinks ... everything! "
+	>  
+	>  It disturbed her not at least that she stood between the mountains of vegetables, fruit, eggs, poultry and fish, while she spun this doomsday scenario.
 
 * Testimony of Mathilde Redmatn, deputy head of the Red Cross in Gaza (April 2011), 
 	> There is no humanitarian crisis in Gaza. If you go to the supermarket, there are products. There are restaurants and a nice beach.
