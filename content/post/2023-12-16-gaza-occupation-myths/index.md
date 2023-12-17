@@ -42,11 +42,9 @@ And then October 7, 2023 came. 1400 killed, raped, stabbed, burned, tortured Isr
 
 	(**☆** Google-translation. The original article had incorrect reference, corrected)
 
-* Testimony of the Danish journalist Steffen Jensen, as evidenced by [his professional activity](http://www.steffen-jensen.dk), cannot the least be suspected of sympathizing with Israel, [asks "Where's the humanitarian crisis?"](https://elderofziyon.blogspot.com/2010/06/danish-report-from-gaza-wheres.html). The page translates the original article, posted by Steffen Jensen in Danish,
-
+* Testimony of the Danish journalist Steffen Jensen, as evidenced by [his professional activity](http://www.steffen-jensen.dk), cannot the least be suspected of sympathizing with Israel, [asks "Where's the humanitarian crisis?"](https://elderofziyon.blogspot.com/2010/06/danish-report-from-gaza-wheres.html). The page translates the original article, posted by Steffen Jensen in Danish,  
 	> I must admit I was a little surprised. Because when I call down here to my Palestinian friends, they tell me about all the problems and deficiencies, so I expected that the crisis was a little more clear.
-	
-	![woman](./gazaveg2.jpg)
+	> ![woman](./gazaveg2.jpg)
 	> And the first woman we interviewed in the market confirms this strange, contradictory, negative mindset:
 	> 
 	>  "We have nothing," she said. We need everything! Food, drinks ... everything! "
