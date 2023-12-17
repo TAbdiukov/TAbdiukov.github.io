@@ -14,7 +14,7 @@ I had a laser eye surgery and here are my experiences.
 
 ## Introduction
 
-In the childhood, I really liked books about algebra and computational logic. As a matter of fact. Slightly less, I liked Greek history and mythology, and I read hundreds of pages of it. Later on, when everyone was blown away by Naruto lore, I was unimpressed.
+In the childhood, I really liked books about algebra and computational logic. Slightly less, I liked Greek history and mythology, and I read hundreds of pages of it. Later on, when everyone was blown away by Naruto lore, I was unimpressed.
 
 In Greek mythology, there is [Lynceus](https://morrisarchive.lib.uiowa.edu/sources-notes-argonauts), who was said to have such an excellent vision that he could see miles away, and he was put on a lookout duty on legendary Argo ship. When I read about him, I assessed my vision to be comparable to his, but over time, I started to think that having this good vision must be a delusion.
 
