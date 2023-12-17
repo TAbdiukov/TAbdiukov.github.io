@@ -3,7 +3,7 @@ layout: post
 title:  "Laser Eye Surgery – Experiences"
 date:   2023-12-14 01:05:00 +0100
 categories: blog
-tags: [health, surgery, research, eyes]
+tags: [health, surgery, eyes]
 image: icyfractal7.jpg
 subtitle: I had a laser eye surgery and here are my experiences.
 ---
