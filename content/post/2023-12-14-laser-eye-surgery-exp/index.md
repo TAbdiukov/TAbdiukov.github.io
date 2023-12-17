@@ -12,29 +12,11 @@ I had a laser eye surgery and here are my experiences.
 
 ![Almaz](icyfractal7.jpg)
 
-> *Diamanten flirrt das Mondlicht,*  
-> *Diamanten strahlt die Höh,*  
-> *Diamanten sprühn die Bäume,*  
-> *Diamanten glüht der Schnee ...*  
+## Introduction
 
-## How I developed bad shortsightedness before adulthood
-***Feel free to skip this section***
+In the childhood, I really liked books about algebra and computational logic. As a matter of fact. Slightly less, I liked Greek history and mythology, and I read hundreds of pages of it. Later on, when everyone was blown away by Naruto lore, I was unimpressed.
 
-**Tl;dr**: Throughout childhood, I was overexposed to eye-straining activities, and my vision deteriorated quickly. I also learned to be rational and calculating early on.
-
-I had cerebral palsy since very young age, which, to the best of our knowledge, only affected my motor abilities and none of the cognitive abilities. Instead of kindergarten, I had a privilege to spend several years at a science institute clinic, where I had been receiving experimental and avant garde (at the time) physical and neurological treatment. There were many procedures inducing lengthy pain, there was botox, and the institute library was my only respite from reality.
-
-I really liked books about algebra and computational logic. As a matter of fact, living with reduced motor ability already pre-disposes one to pre-planning many mundane actions, but I already loved these sciences anyway. Slightly less, I liked space travel fiction, and Greek history and mythology, and I read hundreds of pages of it. Later on, when everyone was blown away by Naruto lore, I was unimpressed.
-
-In the science institute, I also liked to write letters, especially instructional letters, and to document. In the playroom, there was a decommissioned Soviet typewriter, and the nurses only allowed me to use it, to the dismay of other kids.
-
-My biggest dream was to have a computer. In 2004, my parents bought one, and I spent way too much playing strategy games. The "computer" ultimately defined much of my life later. In the winter of 2005-2006, as a reward for a painful therapy, before we had had internet at home, my dad was bringing me to the office so I could go online (under everyone's supervision), and my dad's colleagues were impressed that I could download Java games online and install them on my phone. I even still remember the website, `www.hitmobile.net.ua/java.php` . This website had a German copy of "Galaxy on Fire 3D", and I spent 1000s of hours playing it.
-
-Playing games on a tiny "handy" (i.e. a mobile phone) made my eyes even worse, and it created a vicious cycle. Because I couldn't enjoy outdoors activities as much anymore, I became even more dependent on the internet and gaming. In 2010-2011 alone, I gained about 20kg. That, in turn, led to even poorer lifestyle, and as such, my vision became horrible. While I had a real girlfriend, the one with whom I had the most positive memories, my friends increasingly became online friends. 
-
-In Greek mythology, there is [Lynceus](https://morrisarchive.lib.uiowa.edu/sources-notes-argonauts), who was said to have such an excellent vision that he could see miles away, and he was put on a lookout duty on legendary Argo ship.  When I read about him, I assessed my vision to be comparable to his, but over time, I started to think that having this good vision must be a delusion.
-
-Many years, metamorphoses and lessons learnt later, I chose a career within "Computer Science", and by design, there needs to be extensive interaction with computers, which made vision even worse. After university graduation, slowly but surely, I progressed in this field, however, by that time, my bad vision stabilized.
+In Greek mythology, there is [Lynceus](https://morrisarchive.lib.uiowa.edu/sources-notes-argonauts), who was said to have such an excellent vision that he could see miles away, and he was put on a lookout duty on legendary Argo ship. When I read about him, I assessed my vision to be comparable to his, but over time, I started to think that having this good vision must be a delusion.
 
 ## Laser eye surgery risks and planning
 
