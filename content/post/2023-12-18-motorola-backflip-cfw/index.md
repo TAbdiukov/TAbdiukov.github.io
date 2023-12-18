@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Motorola Backflip - CFW"
+title:  "Motorola Backflip – CFW"
 date:   2023-12-18 14:25:00 +0100
 categories: blog
 tags: [Android]
