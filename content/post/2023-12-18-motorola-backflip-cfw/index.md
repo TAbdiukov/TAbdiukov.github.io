@@ -31,13 +31,13 @@ With many shattered guides, I unified this helpful information.
 ### On stock Android 2.1 Enclair
 Follow instructions on [this archive link](https://web.archive.org/web/20130604001109/http://modmymobile.com/forums/567-motorola-backflip-general/558403-how-flash-j_r0dd-mb300-v1-7-6-1-final-recovery-official-2-1-eclair-update.html) instead.
 
-### Recovery
+## Recovery
 1. Download [j_r0dd-mb300-v2.0.zip](http://www.mediafire.com/file/4limlcamj4tv7dl) (v2.7.11) / [mirror](https://archive.org/details/j_r0dd-mb300-v2.0)
 2. Follow the instructions corresponding to your Android version,
 	* Android 1.5: [archive link](https://web.archive.org/web/20140217075454/http://modmymobile.com/forums/566-motorola-backflip-roms/555774-recovery-j_r0dd-mb300-v2-0-2-7-11-a.html).
 	* Android 2.1 [this archive link](https://web.archive.org/web/20130604001109/http://modmymobile.com/forums/567-motorola-backflip-general/558403-how-flash-j_r0dd-mb300-v1-7-6-1-final-recovery-official-2-1-eclair-update.html) instead. Use the same *j_r0dd-mb300-v2.0.zip*
 
-### Custom firmware
+## Custom firmware
 1. Push firmware file onto SD card. For Motorola Backflip, CM7 (Cyanogenmod 7) and j_r0dd's Preclair (1.2+) are available.
 2. While the phone is connected to PC in adb mode, run,
 	```
