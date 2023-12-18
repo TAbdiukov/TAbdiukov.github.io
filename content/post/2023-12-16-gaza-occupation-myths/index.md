@@ -69,6 +69,8 @@ Where is infrastructure, the hospitals and schools built, the cultivated fields,
 What was not spent on wars went into the pockets of Hamas leaders. Journalist Palki Sharma Upadhyay (India) [writes](https://twitter.com/palkisu/status/1713817751696158940):
 > “There will be no migration from Gaza to Egypt” says Hamas leader Ismail Haniyeh, who himself is in Doha “currently leading a lavish lifestyle.” Haniyeh reportedly watched the Hamas attacks on Israel from the comfort of his office in Qatar. He’s a millionaire with 13 children, including sons who are real estate tycoons and have Turkish passports. His family left Gaza a few years ago.
 
+[**✧**] Satire: [https://www.youtube.com/watch?v=OUMl58i4m0w](Gaza’s sky is black but Qatar is always sunny)
+
 So the poverty and unemployment of Gaza are a consequence not of the Israeli blockade, but of the corruption and militarism of Hamas leadership.
 
 # Myth 3/4: Israel seals Gaza off
