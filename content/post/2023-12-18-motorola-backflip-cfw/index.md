@@ -8,7 +8,7 @@ image: vibrant-backflip.jpg
 ---
 
 ![Vibrant](vibrant-backflip.jpg)
-With few shattered guides, I consolidated the information.
+With many shattered guides, I unified this helpful information.
 
 ## Prerequisites
 * Windows 7+ computer
@@ -16,9 +16,9 @@ With few shattered guides, I consolidated the information.
 
 ## Initial steps
 1. Find out if your device is already rooted (e.g., Superuser or SuperSU app is present) and what is the OS version. Perhaps this guide does not need to apply. Otherwise, you can discover the OS version by accessing,
-```
-Menu -> Settings -> About phone -> OS version
-```
+	```
+	Menu -> Settings -> About phone -> OS version
+	```
 2. Make a backup of all your sansitive data
 3. Download and install official Motorola drivers, [32bit](https://web.archive.org/web/20130424082948/http://www.motorola.com/staticfiles/Support/Experiences/Global_Drivers/USB_Drivers_32_bit_4.6.5.zip) or [64bit](https://web.archive.org/web/20130424082515/http://www.motorola.com/staticfiles/Support/Experiences/Global_Drivers/USB_Drivers_64_bit_4.6.5.zip)
 
@@ -39,6 +39,8 @@ Follow instructions on [this archive link](https://web.archive.org/web/201306040
 ### Custom firmware
 1. Push firmware file onto SD card. For Motorola Backflip, CM7 (Cyanogenmod 7) and j_r0dd's Preclair (1.2+) are available
 2. While the phone is connected to PC in adb mode, run
-`adb reboot recovery`
+	```
+	adb reboot recovery
+	```
 3. When in recovery mode, pick "install new firmware" -> "from SD card" -> pick desired file.
 4. After installation complete, go to Storage -> Clean user data. Whern clean cache and Dalvik-cache 
