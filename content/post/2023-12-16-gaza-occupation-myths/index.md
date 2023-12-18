@@ -3,7 +3,7 @@ layout: post
 title:  "Myths about Gaza occupation"
 date:   2023-12-16 18:05:00 +0100
 categories: blog
-tags: [gaza, israel, politics]
+tags: [gaza, israel, war, politics]
 image: 
 subtitle: Crash course. Translated from an anonymous telegra.ph post 
 ---
