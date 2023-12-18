@@ -32,7 +32,7 @@ In 1967, Gaza and the Sinai Peninsula were captured by Israel during the Six-Day
 
 In 2005, Israel voluntarily and unilaterally withdrew from Gaza, leaving the Palestinians with prosperous farmland and farms, stunning beaches and a rich fishing zone. Everything required for a happy life, in order to become a new Singapore of the Middle East. But in 2007, Hamas won the elections in Gaza and began to sow seeds of hatred on an unprecedented scale. Singapore did not work out, the farms were burned, and in their place rocket launchers appeared and shelling of the border areas of Israel began. In 2007, after three weeks of massive rocket attacks on civilians - after three weeks of shelling! – Israel began a blockade of Gaza (discover more about the blockade below). Every couple of years, in response to rocket attacks and murder of Israeli civilians, including children, Israel carried out military operations to destroy militants and artillery.
 
-And then October 7, 2023 came. 1400 killed, raped, stabbed, burned, tortured Israelis. 230 hostages, the youngest of whom is 10 months old. 18 years after Israel VOLUNTARILY left Gaza. This is the occupation and the response to it.
+And then October 7, 2023 came. 1400 killed, raped, stabbed, burned, tortured Israelis. 230 hostages, the youngest of whom is 10 months old. 18 years after Israel **voluntarily** left Gaza. Such is the 'occupation' and the response to it.
 
 # Myth 2/4: Gaza is broke
 
@@ -64,7 +64,7 @@ Through all this time, Gaza received over $1.18 billion in donations in 2021 and
 
 ## Where did the funds go?
 
-Where is infrastructure, the hospitals and schools built, the cultivated fields, the factories, where are the houses and roads? Where are the jobs created? There is none. Because instead, billions were spent on TENS OF THOUSANDS of missiles, mines, diversion tunnels, because instead of hospitals they built bunkers for the Hamas military command, and artillery was placed within existing hospitals, schools, and residential buildings. And after Israel destroyed these tunnels and bunkers, they built them again.
+Where is infrastructure, the hospitals and schools built, the cultivated fields, the factories, where are the houses and roads? Where are the jobs created? There is none. Because instead, billions were spent on **tens of thousands** of missiles, mines, diversion tunnels, because instead of hospitals they built bunkers for the Hamas military command, and artillery was placed within existing hospitals, schools, and residential buildings. And after Israel destroyed these tunnels and bunkers, they built them again.
 
 What was not spent on wars went into the pockets of Hamas leaders. Journalist Palki Sharma Upadhyay (India) [writes](https://twitter.com/palkisu/status/1713817751696158940):
 > “There will be no migration from Gaza to Egypt” says Hamas leader Ismail Haniyeh, who himself is in Doha “currently leading a lavish lifestyle.” Haniyeh reportedly watched the Hamas attacks on Israel from the comfort of his office in Qatar. He’s a millionaire with 13 children, including sons who are real estate tycoons and have Turkish passports. His family left Gaza a few years ago.
@@ -81,21 +81,21 @@ International law does not require any country, including Israel, to have an ope
 
 No defensive measures taken in response to enemy attacks are qualified by international law to be a collective punishment.
 
-All the while the so-called 'blockade' lasts, a flow of products, things, materials from Egypt, from Israel, from the sea flows into Gaza, partly smuggled, partly as part of humanitarian aid. Israel is constantly creating humanitarian corridors. What are the materials obtained through these corridors used for? You guessed it, to create rockets and tunnels, to hold children's camps in which five-year-olds march with machine guns and shout "Death to Israel!", and teenagers train to kill. Yet Israel periodically allows these materials into Gaza, allows Palestinians into Israeli hospitals, allows family reunifications - finding out time and time again that none of its kind gestures are reciprocated; yet choose to do them again and again in order to act kindly, mercifully, and humanely.
+All the while the so-called 'blockade' lasts, a flow of products, things, materials from Egypt, from Israel, from the sea flows into Gaza, partly smuggled, partly as part of humanitarian aid. Israel is constantly creating humanitarian corridors. What are the materials obtained through these corridors used for? You guessed it, to build rockets and tunnels, to maintain children's camps in which five-year-olds march with machine guns and shout "Death to Israel!", and teenagers train to kill. Yet Israel periodically allows these materials into Gaza, allows Palestinians into Israeli hospitals, allows family reunifications - finding out time and time again that **none** of its kind gestures are reciprocated; yet chooses to do them again and again in order to act kindly, mercifully, and humanely.
 
-# Myth 4/4: Hamas is fighting for the liberation of Palestine.
+# Myth 4/4: Hamas is fighting for the liberation of Palestine
 
 Why do we need to liberate Palestine? To improve the lives of the Palestinian people, right? But Hamas spends the lion's share of international aid not at all on raising living standards - on military needs. Why?
 
-Because Hamas has one goal - to stay in power for as long as possible. And during a war it is easier to suppress resistance, steal, put public funds in your own pocket - the war will write off everything. War - any war - justifies the fight against dissent, a decline in living standards, and rigid ideological boundaries.
+Because Hamas has one goal - to stay in power for as long as possible. And during a war it is easier to suppress resistance, steal, put public funds in one's own pocket - the war will write off everything. War - any war - justifies the fight against dissent, a decline in living standards, and rigid ideological boundaries.
 
 War makes a fighting person significant, people who only know how to kill - what will they do if peace suddenly comes? They don't know how to build. The old tried and tested method remains - appoint an enemy, blame them for all your failures - and fight, fight. The more dead and wounded in the next mess, the higher the degree of hatred towards the "enemies" fueled by propaganda. So the need for even the most recent concern disappears - not about the well-being, for that matter, just about the safety of one’s own people.
 
 # Conclusion: Lessons learned?
 
-* The Gaza Strip NEVER belonged to the Arab country called Palestine and was never taken from it by Israel. For the simple reason that there has never been such a country throughout history.
+* The Gaza Strip **never** belonged to the Arab country called Palestine and was never taken from it by Israel. For the simple reason that there has never been such a country throughout history.
 
-* Israel COMPLETELY withdrew from the Gaza Strip in 2005.
+* Israel **completely** withdrew from the Gaza Strip in 2005.
 
 * In 2007, Gazans voted for Hamas in elections, which immediately began firing artillery at Israel from the Gaza Strip.
 
@@ -103,6 +103,6 @@ War makes a fighting person significant, people who only know how to kill - what
 
 * Billions of dollars were donated to the Gaza Strip, but were used to purchase or manufacture weapons, to build terrorist tunnels, and for the personal enrichment of Hamas leaders.
 
-* From 2005, when Israel withdrew from Gaza, to 2023, more than 20,000 (!) artillery were launched from the Gaza Strip towards Israeli civilians.
+* From 2005, when Israel withdrew from Gaza, to 2023, more than 20,000 (!) artillery rockets were launched from the Gaza Strip towards Israeli civilians.
 
-Just as we didn’t start the previous one, and the one before it, and the one before it, and all the wars that we are forced to wage - this war was not started by Israel. But in response to the murder of children and women, in response to the taking of hostages, in response to rocket attacks of unprecedented intensity, attacks from which there is nowhere to run, because they are now shooting at us from both the south and the north, we must not remain silent, we must not endure and complain to the UN. As such, Israel has a right to respond as it sees fit.
+**Israel did not start this war!** Just like Israel didn’t start the previous one, and the one before it, and the one before it, and all the wars that Israel is forced to wage. But in response to the murder of children and women, in response to the taking of hostages, in response to rocket attacks of unprecedented intensity, attacks from which there is nowhere to run, because they are now shooting at us from both the south and the north, Israel must not remain silent, Israel must not just endure and complain to the UN. Instead, Israel will respond as it sees fit.
