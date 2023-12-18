@@ -71,7 +71,7 @@ What was not spent on wars went into the pockets of Hamas leaders. Journalist Pa
 
 So the poverty and unemployment of Gaza are a consequence not of the Israeli blockade, but of the corruption and militarism of Hamas leadership.
 
-[**✧**] Satire: [https://www.youtube.com/watch?v=OUMl58i4m0w](Gaza’s sky is black but Qatar is always sunny)
+[**✧**] Satire: [Gaza’s sky is black but Qatar is always sunny](https://www.youtube.com/watch?v=OUMl58i4m0w)
 
 # Myth 3/4: Israel seals Gaza off
 
