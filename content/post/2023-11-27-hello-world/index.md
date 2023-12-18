@@ -14,5 +14,3 @@ image: Earth_from_Space.jpg
 # Trivia
 
 The blog was officially launched on 27.11.
-
-Some previous posts were onboarded retrospectively.
