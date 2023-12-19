@@ -100,9 +100,9 @@ Below are approximate market prices in USD as of December 2023,
 
 #### My choice and reasoning
 
-* LASIK - Too much risk, not happy about invasiveness, post-operation recovery risks
-* SMILE - Approved by FDA in 2016, not yet convinced that it's as safe as PRK
-* ICL.. - In my opinion, most invasive, I don't want an implant 
+* LASIK - Too much risk, not happy about invasiveness, post-operation recovery risks.
+* SMILE - Approved by FDA in 2016, not yet convinced that it's as safe as PRK.
+* ICL.. - In my opinion, most invasive, I don't want an implant. 
 
 Therefore, I opted for the safest PRK/TransPRK, with very slight preference toward TransPRK. Yes, PRK/TransPRK is painful, but I'm no stranger to pain.
 
