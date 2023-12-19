@@ -182,7 +182,7 @@ The following was done for each eye separately:
 3. They told me to look at the blinking LED light of the laser and began a 10-second countdown to turn on the laser.
 4. When the laser was turned on, an unpleasant burnt smell appeared, and this is normal. The laser itself is very loud. The laser was on for 10-15 seconds, and within the eye the round LED light began to turn into a kind of snowflake.
 ![snowflake on laser](./snowflake.webp)
-5. Next, a temporary lens is put on the eye
+5. Next, a temporary lens is put on the eye.
 
 *(Then, we repeated these steps with the second eye)*
 
@@ -192,7 +192,7 @@ Then I got up and the surgeon asked me to read the small text underneath a power
 
 I immediately had an almost perfect result. Then they invited me to see the nurse again, where she once again explained what and how to take for the first days, and told me to immediately take 2 Valium tablets. The first-day goal is to fall asleep as soon as possible, as not to feel post-op pain. For the first 10-15 minutes everything was just amazing and euphoric because of good vision. I was sober enough to choose between ride-sharing apps, to order a ride to the parked car, so my family member can drive me home. Minutes later, sharp pain came. Comparable to that of really bad conjunctivitis, but worse, and soon enough I could no longer open my eyes. Had a tried, a waterfall of tears came. When we arrived home, I was given 3 more Valium tablets, but I still couldn’t sleep. Only after a couple of hours did I take another sleep medication and finally fall asleep.
 
-The next day started my endless rounds of medications. The room windows had to be completely sealed off, because of sensitivity to light. I could, with difficulty, read notifications on my phone at lowest brightness and use my laptop at 200-250% text scale, again, at low brightness.
+The next day started my endless rounds of medications. Every day, I started having to use eyedrops. Multiple different types, many times a day. The room windows had to be completely sealed off, because of sensitivity to light. I could, with difficulty, read notifications on my phone at lowest brightness and use my laptop at 200-250% text scale, again, at low brightness.
 
 The next day I could already play GTA to kill boredom, if I didn't aim at all. GTA is easy in this regard.
 
