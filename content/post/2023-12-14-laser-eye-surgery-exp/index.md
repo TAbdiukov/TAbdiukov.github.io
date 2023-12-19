@@ -162,11 +162,13 @@ The surgeon had a slot for a suitable to me day, and I made an appointment.
 
 We arrived with a family member (you must not go back on your own, plus you’ll be on strong painkillers that affect your judgment).
 
-They asked me to sign a disclaimer stating that I understood the risks. I liked that **they did not get me to sign away all my legal rights, i.e. a right to sue**.
+They asked me to sign a disclaimer stating that I understood the risks. I liked that **they did not get me to sign away all my rights, i.e. a right to sue**.
 
 Once signed, they gave me a bunch of prescriptions for medications required, I bought them at a nearby pharmacy, at about $60. Then the clinic nurse took meds from me, laid them out in a prepared first aid kit case and verbally explained in detail what and how to take for about 5-10 minutes, plus gave me printed instructions. 
 
 Then we did all tests again, and we also fine-tuned the vision, so I could see the lowest line with each eye, a vision better than what people are born with, 20-20. Even though this is mostly seamless to me, my brain processes information from left and right eyes in very different ways, so the vision really had to be fine-tuned, to ensure the best results.
+
+After this, they asked for a payment, which we sorted in about 5 minutes.
 
 Then I was seated to wait in line. An hour later they invited me into the operating theatre and laid me comfortably on the operating table.
 
