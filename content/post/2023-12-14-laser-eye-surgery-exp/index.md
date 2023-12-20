@@ -14,7 +14,7 @@ I had a laser eye surgery and here are my experiences.
 
 ## Introduction
 
-In the childhood, I really liked books about algebra and computational logic. Slightly less, I liked Greek history and mythology, and I read hundreds of pages of it. Later on, when everyone was blown away by Naruto lore, I was unimpressed.
+In the childhood, I really liked books about algebra and computational logic. Slightly less, I liked Greek history and mythology, and I read hundreds of pages of it. Later, when everyone was blown away by Naruto lore, I was unimpressed.
 
 In Greek mythology, there is [Lynceus](https://morrisarchive.lib.uiowa.edu/sources-notes-argonauts), who was said to have such an excellent vision that he could see miles away, and he was put on a lookout duty on legendary Argo ship. When I read about him, I assessed my vision to be comparable to his, but over time, I started to think that having this good vision must be a delusion.
 
@@ -77,7 +77,7 @@ Both factors are deemed to be marginal at the factors of `0.25`, with astigmatis
 
 ### Surgery types
 
-With the exception of extremely personalized and specific surgeries, to the best of my knowledge (from going to different medical clinics), surgery types are as follows:
+Apart from extremely personalized and specific surgeries, to the best of my knowledge (from going to different medical clinics), surgery types are as follows:
 
 * **LASIK** – is the most popular type of laser surgery, however, **LASIK is not the only type of laser eye surgery**. That said, LASIK is the most practiced surgery due to popularity with [well-known risks and complications](https://lasikcomplications.com/), least painful, takes about 10 minutes per eye, recovery is 1 day, BUT the surgery itself is more complex and involves several steps (an eye has to be sucked with a 'surgical vacuum cleaner', then 2 lasers have to work in their turns), a bouncy flap remains on the cornea, which heals over time. With both surgery's increased complexity and the flap that can potentially be torn, I chose not to undergo it.
 * **PRK** – is an old, less complex, less invasive and cheaper procedure, however, subsequently very painful (after the anaesthetic ceases functioning). The clinics seem to recommend this surgery for people involved in active sports. The surgery itself takes no more than 5 minutes for 2 eyes, recovery up to 80% of vision the result in 1 week, full recovery in 2-3 months. PRK leaves a scar on the eye, which requires special care within these 2-3 months period of full recovery. 
@@ -86,7 +86,7 @@ With the exception of extremely personalized and specific surgeries, to the best
 
 #### Additional notable surgery types 
 
-* **ICL, IOL, IC-8, and the like** – not a laser surgery per se. The cornea of the eye is not touched by a laser, but a lens (like a vision correction lens) is permanently implanted either on top of the eye, or even into the eye. Depending on the exact type of **I**mplant. This is the most expensive type of surgery of all, and it may correct vision and is very safe (according to different sources, the complete success rate is either 98% or 99.9%). However, part of the eye is not amended, but rather, a lens implant is implanted, and I would argue that it is the most invasive surgery type of them all. Implanting something into a human body is a option, but preserving natural operation of an organ should be preferred, and is perhaps more... elegant! Therefore, I would argue that ICL, IOL, IC-8, etc – **should only be used for complex eye cases**, such as cataracts or other medical problems occurring due to age, medical blindness, or complex eye diseases.
+* **ICL, IOL, IC-8, and the like** – not a laser surgery per se. The cornea of the eye is not touched by a laser, but a lens (like a vision correction lens) is permanently implanted either on top of the eye, or even into the eye. Depending on the exact type of **I**mplant. This is the most expensive type of surgery of all, and it may correct vision and is very safe (according to different sources, the complete success rate is either 98% or 99.9%). However, part of the eye is not amended, but rather, a lens implant is implanted, and I would argue that it is the most invasive surgery type of them all. Implanting something into a human body is a option, but maintaining and preserving natural operation of an organ should be preferred, and is perhaps more... elegant! Therefore, I would argue that ICL, IOL, IC-8, etc – **should only be used for complex eye cases**, such as cataracts or other medical problems occurring due to age, medical blindness, or complex eye diseases.
 * **RK** – **Radial keratotomy**, not to be confused with similarly-abbreviated **P**RK, which is "Photo**refractive** kera**tectomy**". RK is a non-laser eye vision correction surgery that can correct dioptric misalignment and astigmatism, performed with a diamond-edged scalpel, invented in the USSR in 1974. The surgeon must perform complex mathematic calculations to perform this surgery correctly, and a well-performed RK surgery should involve no than a limited (less than 15) incisions, and shouldn't cause post-operational pain. However, RK and its shortcomings are fortunately well-known in the West. Due to decreased safety, increased invasiveness by design, human factor, and other reasons – nowadays, RK is almost entirely superseded by LASIK and PRK. 
 
 #### Costs
@@ -142,15 +142,15 @@ Additionally to the above, I'd like to list factors I used to actively assess cl
 	1. Making sure that they are literate enough to perform changes to your body, but most importantly,
 	2. Making sure that you feel comfortable around them and with them.
 
-The harsh reality for surgeons is that, yes, surgeries, like anything else, can become second nature, something they can do asleep, but because damage potential is so great, the surgeon requirements are (rightly or wrongly) inflated. I was anecdotally told that 99% of potential human factor risk with PRK/TransPRK is that the surgeon may enter numbers incorrectly, however, to prevent this, we as patients, demand Master's degrees! Unfortunately, it is how it is to minimize risk.
+The harsh reality for surgeons is that, yes, surgeries, like anything else, can become second nature, something they can do asleep, but because damage potential is so great, the surgeon requirements are (rightly or wrongly) inflated. I was anecdotally told that 99% of potential human factor risk with PRK/TransPRK is that the surgeon may enter numbers incorrectly, however, to prevent this, we as patients, demand Master's degrees! Unfortunately, this is the best bad method to minimize risk.
 
 With regards to feeling comfortable – the success of any surgery partially depends on patient's conscious or subconscious cooperation. Liking someone at a personal level (achievable only through subjective means) can help alleviate this boundary to success.
 
 ### Clinics
 
-* **<ins>Clinic №1</ins>**: Rated 4.5 stars on Google. I liked everything, I liked the professionalism and the fact that they have clearly been working for many years. I later found staff photos from 20 years with many of the same staff. Reception staff and patients have a coffee machine with all consumables. Three ladies at the reception were sitting and calmly enjoying their tea and coffee. The clinic initially recommended me LASIK, but once that I wanted PRK, **they did not attempt to dissuade me, and this is a huge plus**. A new modern German-made laser was purchased 7 months ago. The negatives: transportation options were really bad, relatively inexperienced surgeon (no Master's degree, scholarly activity 5 years ago) who replaced the virtoso, extremely talented founder of the clinic (who retired in Portugal, so what factors can substancially guarantee that the new surgeon is good?), and finally, the price is quite steep. 
+* **<ins>Clinic №1</ins>**: Rated 4.5 stars on Google. I liked everything, I liked the professionalism and the fact that they have clearly been working for many years. I later found staff photos from 20 years with many of the same staff. Reception staff and patients have a coffee machine with all consumables. Three ladies at the reception were sitting and calmly enjoying their tea and coffee. The clinic initially recommended me LASIK, but once that I wanted PRK, **they did not attempt to dissuade me, and this is a huge plus**. A new modern German-made laser was purchased 7 months ago. The negatives: transportation options were really bad, relatively inexperienced surgeon (no Master's degree, scholarly activity 5 years ago) who replaced the virtuoso, extremely talented founder of the clinic (who retired in Portugal, so what factors can substantially guarantee that the new surgeon is good?), and finally, the price is quite steep. 
 * **<ins>Clinic №2</ins>**: Rated 4.8 stars on Google. At the reception, there is one woman is her 40-50s, who basically does all the administrative work there (they save on employees!) After my stupid questions and mentioning several times that PRK is my preferred option at that point, **they started actively trying to persuade me into expensive surgery types, especially ICL/IOL!** I have a suspicion that they have a high rating because they target young and stupid people from Instagram (with rich parents), and they are scamming everyone into LASIK or the like, where the risks for the youth are low, the results are fast, and accordingly, positive reviews come quickly. Not much information about the surgeon online.
-* **<ins>Clinic №3</ins>**: Rated 4.4 on Google. They have been working for more than 20 years, but I was invited to a small branch for an initial examination. I arrived on a weekend, and therefore no one except the examining doctor was in the branch. I really liked the doctor's honesty. He said that they bought a new laser 14 months ago, `Schwind 1050RS`, and plus they are doing (literal quote) a beta-test of a new laser that is not yet in use. But the main things I liked were in the end of our session: yes, each clinic gave me a promotional booklet with information, Clinic №3 gave me a printed in black-and-white on regular A4 paper, bound Word document of about ~20 pages with very detailed information about surgery: what happens, how and when. **This totally made me lose my heart because Clinic №3's focus is not on sales, but on patients literacy!** (regards, o', Clinic №2) This means that they target diligent and judicious patients, and they don't mind going an extra mile educating patients!
+* **<ins>Clinic №3</ins>**: Rated 4.3 stars on Google. They have been working for more than 20 years, but I was invited to a small branch for an initial examination. I arrived on a weekend, and therefore no one except the examining doctor was in the branch. I really liked the doctor's honesty. He said that they bought a new laser 14 months ago, `Schwind 1050RS`, and plus they are doing (literal quote) a beta-test of a new laser that is not yet in use. But the main things I liked were in the end of our session: yes, each clinic gave me a promotional booklet with information, Clinic №3 gave me a printed in black-and-white on regular A4 paper, bound Word document of about ~20 pages with very detailed information about surgery: what happens, how and when. **This totally made me lose my heart because Clinic №3's focus is not on sales, but on patients literacy!** (regards, o', Clinic №2) This means that they target diligent and judicious patients, and they don't mind going an extra mile educating patients!
 
 It happened this way, in this order, but needless to say, I chose clinic №3. Clinic №1 was a notable close second.
 
@@ -160,11 +160,11 @@ The surgeon had a slot for a suitable to me day, and I made an appointment.
 
 ### On the day of surgery
 
-We arrived with a family member (you must not go back on your own, plus you’ll be on strong painkillers that affect your judgment).
+We arrived with a family member (you must not go back on your own, you’ll be on strong painkillers that may affect your judgment).
 
 They asked me to sign a disclaimer stating that I understood the risks. I liked that **they did not get me to sign away all my rights, i.e. a right to sue**.
 
-Once signed, they gave me a bunch of prescriptions for medications required, I bought them at a nearby pharmacy, at about $60. Then the clinic nurse took meds from me, laid them out in a prepared first aid kit case and verbally explained in detail what and how to take for about 5-10 minutes, plus gave me printed instructions. 
+Once signed, they gave me a bunch of prescriptions for medications required, I bought them at a nearby pharmacy, at about $60. Then the clinic nurse took meds from me, laid them out in a prepared first aid kit case and verbally explained in detail what and how to take for about 5-10 minutes, plus gave me printed instructions.
 
 Then we did all tests again, and we also fine-tuned the vision, so I could see the lowest line with each eye, a vision better than what people are born with, 20-20. Even though this is mostly seamless to me, my brain processes information from left and right eyes in very different ways, so the vision really had to be fine-tuned, to ensure the best results.
 
@@ -182,7 +182,7 @@ The following was done for each eye separately:
 3. They told me to look at the blinking LED light of the laser and began a 10-second countdown to turn on the laser.
 4. When the laser was turned on, an unpleasant burnt smell appeared, and this is normal. The laser itself is very loud. The laser was on for 10-15 seconds, and within the eye the round LED light began to turn into a kind of snowflake.
 ![snowflake on laser](./snowflake.webp)
-5. Next, a temporary lens is put on the eye.
+5. Finally, the eyelid frame was removed, and a temporary lens is put on the eye (which is required for 4-5 weeks to maintain astigmatism treatment).
 
 *(Then, we repeated these steps with the second eye)*
 
@@ -204,3 +204,4 @@ Soon enough, it was as though life went on.
 
 * The same day, I had to drive a lot, and admittedly, driving a vehicle in the first day was difficult, because I was still very photosensitive to the outdoors. The next day was a lot easier.
 
+* Some visual bugs (temporarily) remained, but they are negligible, given how good the vision has become.
