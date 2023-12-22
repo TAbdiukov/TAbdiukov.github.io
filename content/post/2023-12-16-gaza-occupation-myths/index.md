@@ -34,7 +34,7 @@ In 2005, Israel voluntarily and unilaterally withdrew from Gaza, leaving the Pal
 
 And then October 7, 2023 came. 1400 killed, raped, stabbed, burned, tortured Israelis. 230 hostages, the youngest of whom is 10 months old. 18 years after Israel **voluntarily** left Gaza. Such is the 'occupation' and the response to it.
 
-# Myth 2/4: Gaza is broke
+# Myth 2/4: Gaza is broke.
 
 * Testimony of the French journalist (Le Figaro) [**Adrien Jaulmes** dated **June 2, 2010**](https://www.lefigaro.fr/international/2010/06/02/01003-20100602ARTFIG00702-la-population-de-gaza-paie-l-addition-pour-tout-le-monde.php), first section, last paragraph: 
 
@@ -42,7 +42,7 @@ And then October 7, 2023 came. 1400 killed, raped, stabbed, burned, tortured Isr
 
 	(**✧** Google-translation. The original article had incorrect reference, corrected)
 
-* Testimony of the Danish journalist Steffen Jensen, as evidenced by [his professional activity](http://www.steffen-jensen.dk), cannot the least be suspected of sympathizing with Israel, [asks "Where's the humanitarian crisis?"](https://elderofziyon.blogspot.com/2010/06/danish-report-from-gaza-wheres.html). The page translates the original article, posted by Steffen Jensen in Danish,  
+* Testimony of the Danish journalist Steffen Jensen, as evidenced by [his professional activity](http://www.steffen-jensen.dk), cannot the least be suspected of sympathizing with Israel, [asks, "Where's the humanitarian crisis?"](https://elderofziyon.blogspot.com/2010/06/danish-report-from-gaza-wheres.html) The page translates the original article, posted by Steffen Jensen in Danish,  
 	> I must admit I was a little surprised. Because when I call down here to my Palestinian friends, they tell me about all the problems and deficiencies, so I expected that the crisis was a little more clear.  
 	  
 	![woman](./gazaveg2.jpg)
@@ -58,7 +58,7 @@ And then October 7, 2023 came. 1400 killed, raped, stabbed, burned, tortured Isr
 
 So there is food and consumer goods in Gaza, but most people don’t have the money for them. How is it possible?
 
-In 2009, Gaza received $948 million in American aid. In 2010, the US and the EU gave it $413 million, and in 2011 - $514 million. Additionally, gave: Sweden (47 million), UK (45), Norway (40) and the Netherlands (29).
+In 2009, Gaza received $948 million in American aid. In 2010, the US and the EU gave $413 million, and in 2011 - $514 million. Additionally, gave: Sweden (47 million), the UK (45), Norway (40), and the Netherlands (29).
 
 Through all this time, Gaza received over $1.18 billion in donations in 2021 and over $1.17 billion in 2022 from various countries and organizations.
 
@@ -73,7 +73,7 @@ So the poverty and unemployment of Gaza are a consequence not of the Israeli blo
 
 [**✧**] Satire: [Gaza’s sky is black but Qatar is always sunny](https://www.youtube.com/watch?v=OUMl58i4m0w)
 
-# Myth 3/4: Israel seals Gaza off
+# Myth 3/4: Israel seals Gaza off.
 
 International law does not require any country, including Israel, to have an open border with an independent territory where a hostile population lives.
 
@@ -83,7 +83,7 @@ No defensive measures taken in response to enemy attacks are qualified by intern
 
 All the while the so-called 'blockade' lasts, a flow of products, things, materials from Egypt, from Israel, from the sea flows into Gaza, partly smuggled, partly as part of humanitarian aid. Israel is constantly creating humanitarian corridors. What are the materials obtained through these corridors used for? You guessed it, to build rockets and tunnels, to maintain children's camps in which five-year-olds march with machine guns and shout "Death to Israel!", and teenagers train to kill. Yet Israel periodically allows these materials into Gaza, allows Palestinians into Israeli hospitals, allows family reunifications - finding out time and time again that **none** of its kind gestures are reciprocated; yet chooses to do them again and again in order to act kindly, mercifully, and humanely.
 
-# Myth 4/4: Hamas is fighting for the liberation of Palestine
+# Myth 4/4: Hamas is fighting for the liberation of Palestine.
 
 Why do we need to liberate Palestine? To improve the lives of the Palestinian people, right? But Hamas spends the lion's share of international aid not at all on raising living standards - on military needs. Why?
 
