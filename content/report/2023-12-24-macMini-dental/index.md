@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mac mini 4,1 (ADA) - System Profile"
+title:  "Mac mini 4,1 (ADA) – System Profile"
 date:   2023-12-24 14:00:00 +0100
 categories: report
 tags: [tech, hardware, apple, mac, health]
@@ -24,7 +24,7 @@ This particular Mac mini's RAM was upgraded by Apple Inc.
 
 ## System Profiler
 
-![Options](./Options.tiff)  
+![Options](./Options2.png)  
 * [System Profiler 4.0 (XML)](./Mac-mini.1.spx)
 * [Rich Text Format (RTF)](./Mac-mini.2.rtf)
 * [Plain Text (UTF-16)](./Mac-mini.3.txt)
