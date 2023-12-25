@@ -16,7 +16,7 @@ While it's designed to be a SatNav device, this over-engineered insane device al
 
 ## PortTool Logs
 
-* [PortTool v1.0.0.9](./PortTool9/port_tool.log)
+* [PortTool v1.0.0.9 *(NULL bytes removed)*](./PortTool9/port_tool.log)
 * [PortTool v1.0.0.24 *(redacted for privacy)*](./PortTool24/port_tool.log)
 
 ## System Information (GUI)
