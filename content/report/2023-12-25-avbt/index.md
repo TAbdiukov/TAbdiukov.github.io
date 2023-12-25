@@ -10,13 +10,11 @@ subtitle: "Over-engineered insane SatNav device"
 
 ![picture](./pic.jpg)
 
-## Description
-
-While it's designed to be a SatNav device, this over-engineered insane device also tries to be a tablet, an MP3 and DVD player, and an eBook-reader. All the while running [Windows CE 6.0](https://en.wikipedia.org/wiki/Windows_Embedded_CE_6.0). It offers 800MHz MTK 2531 CPU, USB OTG and `wininet.dll` support, and GPS reception at 57.6 kBd/s.
+Designed to be a SatNav device, this over-engineered insane device also tries to be a tablet, an MP3 and DVD player, and an eBook-reader. All the while running [Windows CE 6.0](https://en.wikipedia.org/wiki/Windows_Embedded_CE_6.0). It offers 800MHz MTK 2531 CPU, USB OTG and `wininet.dll` support, and GPS reception at 57.6 kBd/s.
 
 ## PortTool Logs
 
-* [PortTool v1.0.0.9 *(NULL bytes removed)*](./PortTool9/port_tool.log)
+* [PortTool v1.0.0.9 *(NUL-bytes removed)*](./PortTool9/port_tool.log)
 * [PortTool v1.0.0.24 *(redacted for privacy)*](./PortTool24/port_tool.log)
 
 ## System Information (GUI)
