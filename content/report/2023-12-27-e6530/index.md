@@ -18,7 +18,7 @@ This particular model comes with an Intel Core **i7**, so that's good.
 
 ##  Reports
 
-* [AIDA64 (581kb)](./AIDA64-Report.htm)
+* [AIDA64 v7 (581kb)](./AIDA64-Report.htm)
 * [CPU-Z (191kb)](./CPUZ.html)
 
 ---------------------------------
