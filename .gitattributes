@@ -1,3 +1,9 @@
 # yaml prep
 *.yaml linguist-detectable
-content/report/**/*.htm export-ignore
+
+# https://stackoverflow.com/a/23822142/12258312
+content/report/* export-ignore
+content/report/*/* export-ignore
+content/report/*/*/* export-ignore
+content/report/*/*/*/* export-ignore
+content/report/*/*/*/*/* export-ignore
