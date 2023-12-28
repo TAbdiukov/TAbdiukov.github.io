@@ -4,10 +4,10 @@ title:  "Motorola Backflip – CFW"
 date:   2023-12-18 14:25:00 +0100
 categories: blog
 tags: [android, tech, xda]
-image: vibrant-backflip.jpg
+image: Motorola_BACKFLIP_QSG.jpg
 ---
 
-![Vibrant](vibrant-backflip.jpg)
+![Vibrant](Motorola_BACKFLIP_QSG.jpg)
 Motorola Backflip is actually the first Android smartphone released on AT&T network, released in 2010.
 
 With many shattered guides about Backflip, aka MB300, I consolidated this information.
