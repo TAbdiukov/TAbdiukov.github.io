@@ -8,7 +8,9 @@ image: vibrant-backflip.jpg
 ---
 
 ![Vibrant](vibrant-backflip.jpg)
-With many shattered guides, I unified this helpful information.
+Motorola Backflip is actually the first Android smartphone released on AT&T network, released in 2010.
+
+With many shattered guides about Backflip, aka MB300, I consolidated this information.
 
 ## Prerequisites
 * Windows 7+ computer
