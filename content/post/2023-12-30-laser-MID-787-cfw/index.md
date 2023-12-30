@@ -44,7 +44,7 @@ Unfortunately, I lost my PCB photos. However, the PCB looks like this,
 * CTRONIQ Snook X75
 
 ## Prerequisites
-* Windows PC
+* Windows computer
 * Laser MID-787 (or compatible clone)
 * USB cable
 
@@ -112,7 +112,7 @@ Overall customisability and experience | Painful | <ins>**Not great, but more ac
 
 1. Ensure tablet is fully turned off.
 	* If you disassembled the tablet, then next to power button, there is a normally inaccessible, tiny `RESET` button/switch. This button/switch can be pressed with a tiny flathead screwdriver, and it shuts off power from the CPU, halting its operations.
-2. Once green "Download" button is clicked on SP Flash Tool, connect tablet to the PC without pressing any buttons on the tablet. The computer should recognise the tablet and begin flashing.
+2. Once green "Download" button is clicked on SP Flash Tool, connect tablet to the computer without pressing any buttons on the tablet. The computer should recognise the tablet and begin flashing.
 	* Sometimes, computer does not recognise in time or hangs, and the tablet boots normally. If this happens, simply turn off tablet again and try again. I had to try at least 3 times before I was successful.
 3. Wait until the flashing process is complete. SP Flash Tool will inform you by,
 	![DownloadOK](./DownloadOK.jpg)
