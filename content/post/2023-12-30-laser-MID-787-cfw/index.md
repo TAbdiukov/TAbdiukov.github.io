@@ -3,7 +3,7 @@ layout: post
 title:  "Laser MID-787 – CFW"
 date:   2023-12-30 15:02:00 +0100
 categories: blog
-tags: [android, tech, xda, hardware]
+tags: [android, tech, xda, hardware, china]
 image: 1200-huge.jpg
 subtitle: "Laser MID-787 is a model title for a family of cheap and bad Chinese tablets."
 ---
