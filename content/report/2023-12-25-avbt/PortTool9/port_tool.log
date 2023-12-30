@@ -10,7 +10,7 @@ UUID: 16 byte: 00 18 E4 20 09 00 00 00 - 00 00 00 00 00 00 00 01 (0018E420090000
 Screen: 800x480 16 bit
 OS Version: 6
 Battery status: Charging
-Battery percent: 20
+Battery percent: 40
 wininet.dll: yes
 OEM info: 'applo' 12 byte: 61 00 70 00 70 00 6C 00 6F 00 00 00 
 THUMB: yes
@@ -18,17 +18,17 @@ FlashCards
   name: ResidentFlash
   name: NandBlk
   Disk size: 3506.54 Mb 3676872704 bytes
-  Mapping: AVR Write: 852 KB/s
-	    AVR Read: 538 KB/s
-  Mapping time: 21 sec, 100 %
+  Mapping: AVR Write: 822 KB/s
+	    AVR Read: 507 KB/s
+  Mapping time: 22 sec, 100 %
  
   name: SDMMC
   name: DSK2:
   Disk size: 1884.72 Mb 1976270848 bytes
   flashID: 30 36 43 32 35 37 35 43 00 00 . 30 33
-  Mapping: AVR Write: 823 KB/s
-	    AVR Read: 491 KB/s
-  Mapping time: 23 sec, 100 %
+  Mapping: AVR Write: 887 KB/s
+	    AVR Read: 490 KB/s
+  Mapping time: 22 sec, 100 %
  
 GPS:
   COM Test: ClearCommError() failed
@@ -47,5 +47,5 @@ GPS:
   Rate: 57600
 
 String test: Ok
-System date/time: 17:38:25 25.12.2023 (5:38:25 PM, 12/25/2023)
+System date/time: 19:49:19 30.12.2023 (7:49:19 PM, 12/30/2023)
 ==================

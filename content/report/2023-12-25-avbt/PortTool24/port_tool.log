@@ -5,26 +5,26 @@ Path to navi: [ ]
 USB: [Async/Flash card/CardReader]
 UUID in About: [yes/no]
 Internet: [yes/no]
-RAM: total: 99 Mb, avail: 71 Mb
+RAM: total: 99 Mb, avail: 72 Mb
 UUID: 16 byte: 00 18 E4 20 09 00 00 00 - 00 00 00 00 00 00 00 01 (0018E420090000000000000000000001)
 UUID check: 0
 DeviceID: 0 byte:  - 
 Screen: 800x480 16 bit
 OS Version: 6
 Battery status: Charging
-Battery percent: 10
+Battery percent: 30
 wininet.dll: yes
 OEM info: 'applo' 12 byte: 61 00 70 00 70 00 6C 00 6F 00 00 00 
 THUMB: yes
-MemAccess: Mapping - 409 ms	malloc() - 435 ms	Factor: 1 (ok)
+MemAccess: Mapping - 437 ms	malloc() - 411 ms	Factor: 1 (ok)
 FlashCards
   name: ResidentFlash
   name: NandBlk
   Disk size: 3506.54 Mb 3676872704 bytes
   Write/Read test: Ok 
-  Mapping: AVR Write: 793 KB/s
-	    AVR Read: 444 KB/s
-  Mapping time: 25 sec, 100 %
+  Mapping: AVR Write: 806 KB/s
+	    AVR Read: 465 KB/s
+  Mapping time: 24 sec, 100 %
  
   name: SDMMC
   name: DSK2:
@@ -32,20 +32,23 @@ FlashCards
   flashID: 30 36 43 32 35 37 35 43 00 00 . 30 33
   flashID (for registration): 0306C2575C00
   Write/Read test: Ok 
-  Mapping: AVR Write: 975 KB/s
-	    AVR Read: 429 KB/s
+  Mapping: AVR Write: 926 KB/s
+	    AVR Read: 430 KB/s
   Mapping time: 24 sec, 100 %
  
 GPS:
+
 	 Port: COM1:
 	 Rate: 57600
  
   No errors in NMEA 0
 
+
 	 Port: COM7:
 	 Rate: 57600
  
   No errors in NMEA 0
+
 
 	 Port: COM9:
 	 Rate: 57600
@@ -54,15 +57,18 @@ GPS:
 
 ---Parallels call serial ports---
 
+
 	 Port: COM1:
 	 Rate: 57600
  
   No errors in NMEA 0
 
+
 	 Port: COM7:
 	 Rate: 57600
  
   No errors in NMEA 0
+
 
 	 Port: COM9:
 	 Rate: 57600
@@ -70,7 +76,7 @@ GPS:
   No errors in NMEA 0
 
 String test: Ok
-System date/time: 17:41:39 25.12.2023 (5:41:39, 12/25/2023)
+System date/time: 19:52:25 30.12.2023 (7:52:25, 12/30/2023)
 ===[Audio test]===
 Count of audio devices: 3
 =[End audio test]=
