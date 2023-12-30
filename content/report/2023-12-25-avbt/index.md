@@ -42,6 +42,10 @@ DL2014082889…
 * [Almost the same device on eBay Kleinanzeigen](https://www.kleinanzeigen.de/s-anzeige/gps-navi-n-go-igo-8-mobiles-devices-5-taschenformat-sehr-gut/2367151721-168-3472)
 * [Archiwum Allegro. GPS SATELLITE NAVIGATION OUTPUT DC 5V 1.5A KOMPLE](https://archiwum.allegro.pl/oferta/gps-satellite-navigation-output-dc-5v-1-5a-komple-i6523193715.html)
 
+------------------
+
+* [Navman MOVE75](../2023-12-30-move75)
+
 ---------------------------------
 
 ***[Tim Abdiukov](https://github.com/TAbdiukov)***

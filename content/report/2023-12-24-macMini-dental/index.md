@@ -27,7 +27,7 @@ This particular Mac mini's RAM was upgraded by Apple Inc.
 ![Options](./Options2.png)  
 * [System Profiler 4.0 (XML)](./Mac-mini.1.spx)
 * [Rich Text Format (RTF)](./Mac-mini.2.rtf)
-* [Plain Text (UTF-16)](./Mac-mini.3.txt)
+* [Plain Text (UTF–16)](./Mac-mini.3.txt)
 
 ---------------------------------
 
