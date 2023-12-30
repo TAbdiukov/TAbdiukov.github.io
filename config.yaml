@@ -1,6 +1,6 @@
 baseURL: https://open.id.au/
-disablePathToLower: true
-languageCode: en-AU
+disablePathToLower: false
+languageCode: en
 title: Tim Abdiukov
 author: Tim Abdiukov
 
@@ -15,6 +15,15 @@ markup:
 paginate: 100
 
 # vitae theme settings
+menu:
+  main:
+    - name: posts
+      url: "/post"
+      weight: 10
+    - name: reports
+      url: "/report"
+      weight: 20
+
 theme: hugo-vitae-nord
 favicon: true
 
