@@ -5,7 +5,6 @@ date:   2023-12-18 14:25:00 +0100
 categories: blog
 tags: [android, tech, xda]
 image: Motorola_BACKFLIP_QSG.jpg
-subtitle: "Laser MID-787 is a model title for a family of cheap and bad Chinese tablets."
 ---
 
 ![AT＆T](Motorola_BACKFLIP_QSG.jpg)
