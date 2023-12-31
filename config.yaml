@@ -46,4 +46,4 @@ params:
   thumbnails:
     enabled: false
   readtime:
-    enableListing: true
+    enableListing: false
