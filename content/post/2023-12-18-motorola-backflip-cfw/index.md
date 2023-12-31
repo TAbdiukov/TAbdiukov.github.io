@@ -5,10 +5,12 @@ date:   2023-12-18 14:25:00 +0100
 categories: blog
 tags: [android, tech, xda]
 image: Motorola_BACKFLIP_QSG.jpg
+subtitle: "Laser MID-787 is a model title for a family of cheap and bad Chinese tablets."
 ---
 
-![Vibrant](Motorola_BACKFLIP_QSG.jpg)
-Motorola Backflip is actually the first Android smartphone released on AT&T network, released in 2010.
+![AT＆T](Motorola_BACKFLIP_QSG.jpg)
+
+Motorola Backflip is actually the first Android smartphone released on AT＆T network, released in 2010.
 
 With many shattered guides about Backflip, aka MB300, I consolidated this information.
 
