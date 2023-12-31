@@ -44,6 +44,6 @@ params:
       icon: fas fa-rss
       url: /index.xml
   thumbnails:
-    enabled: enable
+    enabled: true
   readtime:
     enableListing: true
