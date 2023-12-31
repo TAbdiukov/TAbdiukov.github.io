@@ -45,3 +45,5 @@ params:
       url: /index.xml
   thumbnails:
     enabled: false
+  readtime:
+    enableListing: true
