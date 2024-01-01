@@ -45,7 +45,7 @@ params:
       url: "https://linkedin.com/in/tim-abdiukov"
     - name: Email
       icon: fa fa-briefcase
-      cmd: mailto:TAbdiukov﹘🇦🇹-nts.eu
+      cmd: "mailto:TAbdiukov﹘🇦🇹-nts.eu"
     - name: RSS
       icon: fas fa-rss
       url: /index.xml
