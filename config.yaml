@@ -47,3 +47,5 @@ params:
     enabled: false
   readtime:
     enableListing: false
+  position:
+    socials: "footer"
