@@ -51,7 +51,8 @@ params:
       url: /index.xml
   thumbnails:
     enabled: false
-  readtime:
-    enableListing: false
+  postDisplay:
+    read_time: true
+    tags: true
   position:
     socials: "footer"
