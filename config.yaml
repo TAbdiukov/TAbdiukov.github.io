@@ -52,7 +52,7 @@ params:
   thumbnails:
     enabled: false
   postDisplay:
-    read_time: true
-    tags: true
+    read_time: false
+    tags: false
   position:
     socials: "footer"
