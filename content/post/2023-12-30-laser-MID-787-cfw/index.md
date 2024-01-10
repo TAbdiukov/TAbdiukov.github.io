@@ -114,7 +114,7 @@ Overall customisability and experience | Painful | <ins>**Not great, but more ac
 	* If you disassembled the tablet, then next to power button, there is a normally inaccessible, tiny `RESET` button/switch. This button/switch can be pressed with a tiny flathead screwdriver, and it shuts off power from the CPU, halting its operations.
 2. Once green "Download" button is clicked on SP Flash Tool, connect tablet to the computer without pressing any buttons on the tablet. The computer should recognise the tablet and begin flashing.
 	* Sometimes, computer does not recognise in time or hangs, and the tablet boots normally. If this happens, simply turn off tablet again and try again. I had to try at least 3 times before I was successful.
-3. Wait until the flashing process is complete. SP Flash Tool will inform you by,
+3. Wait until the flashing process is complete. SP Flash Tool will inform you by,  
 	![DownloadOK](./DownloadOK.jpg)
 	
 4. Disconnect tablet from the computer.
