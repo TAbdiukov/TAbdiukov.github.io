@@ -24,7 +24,7 @@ Productivity meets culture. Many people never heard of her, which is a shame. Re
 
 As I was writing this post, I did more research and found out that Ofra Haza was more widespread in Europe than other parts of the world. She was said to be Madonna of the East,
 
-![Wiki](./Wiki.png")  
+![Wiki](./Wiki.png)  
 *popular in Europe, not so much elsewhere*
 
 I'm an analyst, and Kordhell is probably from Europe if he/she used this motif in their song. Speaking of, I didn't really like "Shoot to Kill", but I loved "Live Another Day". However the case, I hope the reader can benefit from learning something new! 
