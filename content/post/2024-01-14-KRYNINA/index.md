@@ -29,7 +29,7 @@ She did not give up and later, pretending to go on a leisure vacation to Türkiy
 Later, she and her children were picked up from Chișinău by (Apostile) Dmytro Karpenko. Dmytro traleveled them to a PoW camp where Iryna's husnand was held. And since then, all was set to end well. However,
 
 
-![Faberge' Egg. Human life is infinitely more precious than it](https://upload.wikimedia.org/wikipedia/commons/e/e5/Cockerel_Faberg%C3%A9_egg.png)
+![Faberge' Egg. Human life is infinitely more precious than it](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Cockerel_Faberg%C3%A9_egg.png/242px-Cockerel_Faberg%C3%A9_egg.png)
 (*Faberge' Egg. Human life is infinitely more precious than a physical corporeal egg*)
 
 However, Iryna's husband said "what the fuck for" and was really upset. He cared more about seeing his mother than any moral values.
