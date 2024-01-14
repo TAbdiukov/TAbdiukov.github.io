@@ -44,18 +44,20 @@ I will probably create some (~14%) public GitHub repositories about it when I ge
 
 Iryna Krynina's husband had said that he wants to see his mother, and he indicated that his mother is more important to him than his wife.
 
-What can one say? Iryna (Irina) chose to risk everything for her husband and failed, yet what is the morale of her story? Maybe nothing. Maybe nothing. Maybe the whole point of our lives is that life is meaningless. However, I chose not to believe so, because it doesn't make sense.
+What can one say? Iryna (Irina) chose to risk everything for her husband and failed, yet what is the morale of her story? Other wives chose to stick their tongues in their butts, thus demonstrating their inability, impotence. Maybe the whole-entire point of our lives is that life is meaningless. However, I certainly choose not to believe so, because it doesn't make sense.
 
 You can discover more here,
 
 * [Russian wife risks her life fleeing to Ukraine with children to see her prisoner of war boyfriend and reveal Putin's 'lies' - only for the stunned soldier to ask 'what the f*** for?' in bizarre reunion video](https://www.dailymail.co.uk/news/article-12576491/Russian-wife-risks-life-fleeing-Ukraine-children-prisoner-war-boyfriend-reveal-Putins-lies-stunned-soldier-ask-f-bizarre-reunion-video.html)
-* [https://www.n-tv.de/politik/Russin-will-Partner-aus-Gefangenschaft-holen-und-wird-zum-Star-article24488755.html](https://www.n-tv.de/politik/Russin-will-Partner-aus-Gefangenschaft-holen-und-wird-zum-Star-article24488755.html)
-
-* [Russian woman reunites with prisoner of war boyfriend - but he's not pleased to see her(https://www.mirror.co.uk/news/world-news/russian-woman-reunites-prisoner-war-31070645)
+* [hRussin will Partner aus Gefangenschaft holen - und wird zum Star
+(https://www.n-tv.de/politik/Russin-will-Partner-aus-Gefangenschaft-holen-und-wird-zum-Star-article24488755.html)
+* [Russian woman reunites with prisoner of war boyfriend - but he's not pleased to see her](https://www.mirror.co.uk/news/world-news/russian-woman-reunites-prisoner-war-31070645)
 * (AI/ML) [Ukraine launches chatbot service for relatives of missing Russian troops
 ](https://www.reuters.com/world/europe/ukraine-launches-chatbot-service-relatives-missing-russian-troops-2024-01-10/)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **</ins>[RISKING LIFE TO GO TO UKRAINE TO SEE HER HUSBAND| Dissidents | @Zolkin Volodymyr
-](https://www.youtube.com/watch?v=onR_2AKWsq4)</ins>** -- THE primary video.
+](https://www.youtube.com/watch?v=onR_2AKWsq4)</ins>** -- primary video.
+
+
