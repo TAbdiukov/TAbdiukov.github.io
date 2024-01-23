@@ -20,9 +20,13 @@ menu:
     - name: posts
       url: "/post"
       weight: 10
+    - name: f.extracts
+      url: "/extract"
+      weight: 20
     - name: reports
       url: "/report"
-      weight: 20
+      weight: 30
+
 
 theme: hugo-vitae-nord
 favicon: true
