@@ -20,7 +20,7 @@ menu:
     - name: posts
       url: "/post"
       weight: 10
-    - name: f.extracts
+    - name: extracts
       url: "/extract"
       weight: 20
     - name: reports
