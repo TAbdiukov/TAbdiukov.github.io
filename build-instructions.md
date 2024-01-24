@@ -3,7 +3,7 @@ With Hugo:
 build:
 
 ```
-hugo --gc --minify -D --theme=hugo-vitae-nord -b http://open.id.au/
+hugo --gc --minify -D --theme=hugo-vitae-nord
 ```
 
 run:
