@@ -37,7 +37,7 @@ copyright: "Personal blog of Tim Abdiukov"
 # social links
 
 params:
-  avatar: "/Logo-alt-alt.png"
+  avatar: "/Logo.png"
   social:
     - name: Github
       icon: fab fa-github
