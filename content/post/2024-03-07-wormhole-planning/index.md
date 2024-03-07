@@ -14,7 +14,7 @@ Recommended music for this article: [Who's Lila? OST - 1 hour of Forest of 512 S
 
 I previously owned a one-of-a-kind book, a screenplay for a Soviet movie. Only one copy exists. More than 8 years ago, I conducted research about a pretty in-depth topic where every single party is known to be unreliable. So, what use can come out of falsehood?
 
-Typically, people think that lying party cannot be trusted. In reality, a lying party, even when deceased, may inadvertently be truthful through layers of lies, as can be revealed through analysis of psycho-social patterns, **entropy** (very important!), known agenda, embarrassment, timing, side-channel information, reaction (or lack thereof) to stimuli, and so on. Finally, intuition! If a known lie is identified, then analysis can be conducted to uncover potential motives for a lie, of which there may be multiple. A sane individual typically would not lie or deceive for no reason or reasons.  
+Typically, people think that lying party cannot be trusted. In reality, a lying party, even when deceased, may inadvertently be truthful through layers of lies, as can be revealed through analysis of psycho-social patterns, **entropy**, known agenda, embarrassment, timing, side-channel information, reaction (or lack thereof) to stimuli, and so on. Finally, intuition! If a known lie is identified, then analysis can be conducted to uncover potential motives for a lie, of which there may be multiple. A sane individual typically would not lie or deceive for no reason or reasons.  
 
 ![Gospel of Thomas](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/El_Evangelio_de_Tom%C3%A1s-Gospel_of_Thomas-_Codex_II_Manuscritos_de_Nag_Hammadi-The_Nag_Hammadi_manuscripts.png/480px-El_Evangelio_de_Tom%C3%A1s-Gospel_of_Thomas-_Codex_II_Manuscritos_de_Nag_Hammadi-The_Nag_Hammadi_manuscripts.png)
 
@@ -24,9 +24,9 @@ And when it comes to lies: even thorough and detailed reasons with sound base ma
 
 In effect, the most fruitful line of inquiry ends up the line of questioning the unreliable narrator and their motives. Especially in the case of complex lies, the lies themselves may not be as important in contrast to the reasoning behind production of complex and kaleidoscopic lies.
 
-Side-note: As explored in gamified (and therefore interactive) form, in the horror game of "Who is Lila?", to which there is an [8-hour long analysis (lol)](https://www.youtube.com/watch?v=TiH2SjjowKw). Unfortunately, I found what's going on early on, but I thoroughly enjoyed the game and its way of engaging a user (or rather, a soul) by giving bits of information but rarely anything approaching grand-truth.
+Side-note: As explored in gamified (and therefore interactive) form, in a horror game of "Who is Lila?", to which there is an [8-hour long analysis (lol)](https://www.youtube.com/watch?v=TiH2SjjowKw). Unfortunately, I found what's going on early on, but I thoroughly enjoyed the game and its way of engaging a user (or rather, a soul) by giving bits of information but rarely anything approaching grand-truth.
 
-Propaganda is all the same. Propaganda is still produced by people, and sane people do not lie or deceive lest they have a reason to do so. Propaganda is rarely even close to being complex, though it may be upon necessity. More often, it 'hooks' on to preexisting illiteracy, biases, and fears. It gives false panacea. Propaganda gives simple solutions to complex problems.
+Propaganda is all the same, even simplier. Propaganda is still produced by people, and sane people do not lie or deceive lest they have a reason to do so. Propaganda is rarely even close to being complex, though it may be upon necessity. More often, it 'hooks' on to preexisting illiteracy, biases, and fears. It gives false panacea. Propaganda gives simple solutions to complex problems.
 
 ![tarot](tarot.png)
 
@@ -34,8 +34,9 @@ Whichever it is and how-so-ever it goes, a lie pre-disposes the lying party (ass
 
 Below is how the screenplay looks like, and at the same time, proof that I owned it. How did I acquire one-of-a-kind item, an NFT? Trade secret.
 
-![IMG_0488.jpg](IMG_0488.jpg)
-*Photo taken on: 29.02.2024 (EXIF not removed), published on 07.03.2024*
+![IMG_0488.jpg](IMG_0488.jpg) | 
+---- | 
+*Photo taken on: 29.02.2024 (EXIF not removed), published on 07.03.2024* |
 
 ```
 МОАБИТСКАЯ ТЕТРАДЬ
