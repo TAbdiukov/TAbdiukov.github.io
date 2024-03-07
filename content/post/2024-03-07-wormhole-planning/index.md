@@ -16,6 +16,8 @@ I previously owned a one-of-a-kind book, a screenplay for a Soviet movie. Only o
 
 Typically, people think that lying party cannot be trusted. In reality, a lying party, even when deceased, may inadvertently be truthful through layers of lies, as can be revealed through analysis of psycho-social patterns, **entropy** (very important!), known agenda, embarrassment, timing, side-channel information, reaction (or lack thereof) to stimuli, and so on. Finally, intuition! If a known lie is identified, then analysis can be conducted to uncover potential motives for a lie, of which there may be multiple. A sane individual typically would not lie or deceive for no reason or reasons.  
 
+![Codex Tchacos](https://upload.wikimedia.org/wikipedia/commons/4/49/Codex_Tchacos_p33.jpg)
+
 There is practical demonstration to it, as well as interrogation playbooks on how to attack lies, for example, at: [JCS - Criminal Psychology](https://www.youtube.com/@JCS)
 
 And when it comes to lies: even thorough and detailed reasons with sound base may not be the key ones.  Complex in nature lies may be based on multiple thorough, **<ins>kaleidoscopic</ins>** lies. They may have complex structure with dead-ends, where the brain itself tries to bridge the unbridgeable. For example, how can an anointed one be evil? 
