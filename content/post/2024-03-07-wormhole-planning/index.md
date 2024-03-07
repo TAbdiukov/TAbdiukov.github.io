@@ -16,7 +16,7 @@ I previously owned a one-of-a-kind book, a screenplay for a Soviet movie. Only o
 
 Typically, people think that lying party cannot be trusted. In reality, a lying party, even when deceased, may inadvertently be truthful through layers of lies, as can be revealed through analysis of psycho-social patterns, **entropy** (very important!), known agenda, embarrassment, timing, side-channel information, reaction (or lack thereof) to stimuli, and so on. Finally, intuition! If a known lie is identified, then analysis can be conducted to uncover potential motives for a lie, of which there may be multiple. A sane individual typically would not lie or deceive for no reason or reasons.  
 
-![Codex Tchacos](https://upload.wikimedia.org/wikipedia/commons/4/49/Codex_Tchacos_p33.jpg)
+![Gospel of Thomas](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/El_Evangelio_de_Tom%C3%A1s-Gospel_of_Thomas-_Codex_II_Manuscritos_de_Nag_Hammadi-The_Nag_Hammadi_manuscripts.png/480px-El_Evangelio_de_Tom%C3%A1s-Gospel_of_Thomas-_Codex_II_Manuscritos_de_Nag_Hammadi-The_Nag_Hammadi_manuscripts.png)
 
 There is practical demonstration to it, as well as interrogation playbooks on how to attack lies, for example, at: [JCS - Criminal Psychology](https://www.youtube.com/@JCS)
 
@@ -24,7 +24,7 @@ And when it comes to lies: even thorough and detailed reasons with sound base ma
 
 In effect, the most fruitful line of inquiry ends up the line of questioning the unreliable narrator and their motives. Especially in the case of complex lies, the lies themselves may not be as important in contrast to the reasoning behind production of complex and kaleidoscopic lies.
 
-Side-note: As explored in gamified (and therefore interactive) form, in the horror game of "Who is Lila?", to which there is [8-hour long analysis (lol)](https://www.youtube.com/watch?v=TiH2SjjowKw). Unfortunately, I found what's going on early on, but I thoroughly enjoyed the game and its way of engaging a user (or rather, a soul) by giving bits of information but rarely anything approaching grand-truth.
+Side-note: As explored in gamified (and therefore interactive) form, in the horror game of "Who is Lila?", to which there is an [8-hour long analysis (lol)](https://www.youtube.com/watch?v=TiH2SjjowKw). Unfortunately, I found what's going on early on, but I thoroughly enjoyed the game and its way of engaging a user (or rather, a soul) by giving bits of information but rarely anything approaching grand-truth.
 
 Propaganda is all the same. Propaganda is still produced by people, and sane people do not lie or deceive lest they have a reason to do so. Propaganda is rarely even close to being complex, though it may be upon necessity. More often, it 'hooks' on to preexisting illiteracy, biases, and fears. It gives false panacea. Propaganda gives simple solutions to complex problems.
 
