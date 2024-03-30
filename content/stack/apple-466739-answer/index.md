@@ -77,7 +77,9 @@ By using Sergei Strelec's WinPE, many problems are avoided, including:
 
 The only downside is that the image is around 4.7GB, and temporarily, you need to use an NTFS-formatted storage device, or find another way to get the file onto your Mac.
 
-Sergei Strelec's WinPE (in `WinPE 8 (x86)` environment) comes with last x86 host OS compatible, pre-packaged WinNTSetup v4.2.5. It also comes with 78Setup v2.4 (`Setup Windows 7-10 (x86-x64)`) utility, which was not researched in this answer. These 2 utilities may **allow for installation of even Windows 10 or beyond** on a `Mac mini 4,1`.
+Sergei Strelec's WinPE (in `WinPE 8 (x86)` environment) comes with last x86 host OS compatible, pre-packaged WinNTSetup v4.2.5. It also comes with 78Setup v2.4 (`Setup Windows 7-10 (x86-x64)`) utility, which was not researched in this answer. These 2 utilities **allow for installation of Windows 10 and beyond** on a `Mac mini 4,1`.
+
+> **Note:** WinNTSetup v4.2.5 was previously successfully used to install Windows 10 using steps of this guide
 
 ##### Sergei Strelec's WinPE - Important Notes
 *To keep the answer not too dependent on Sergei Strelec's WinPE, here are Important Notes*
