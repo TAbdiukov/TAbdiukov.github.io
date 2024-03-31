@@ -1,6 +1,5 @@
 # yaml prep
 *.yaml linguist-detectable
 
-# https://stackoverflow.com/a/23822142/12258312
-content/report/**/* export-ignore
-content/report/**/*.* export-ignore
+# https://stackoverflow.com/a/70542975/12258312
+content/report/** linguist-vendored
