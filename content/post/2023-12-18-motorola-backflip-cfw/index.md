@@ -9,7 +9,7 @@ image: Motorola_BACKFLIP_QSG.jpg
 
 ![AT＆T](Motorola_BACKFLIP_QSG.jpg)
 
-Motorola Backflip is actually the first Android smartphone released on AT＆T network, released in 2010.
+Motorola Backflip is the first Android smartphone released on AT＆T network, released in 2010.
 
 With many shattered guides about Backflip, aka MB300, I consolidated this information.
 
@@ -19,7 +19,7 @@ With many shattered guides about Backflip, aka MB300, I consolidated this inform
 * microSD card
 
 ## Initial steps
-1. Find out if your device is already rooted (e.g., that Superuser or SuperSU app is present) and what is the OS version. Perhaps this guide does not need to apply. Otherwise, you can discover the OS version by accessing,
+1. Find out if your device is already rooted (e.g., that Superuser or SuperSU app is present) and what the Operating System (OS) version is. Perhaps this guide does not need to apply. Otherwise, you can discover the OS version by accessing,
 	```
 	Menu -> Settings -> About phone -> OS version
 	```
@@ -32,7 +32,7 @@ With many shattered guides about Backflip, aka MB300, I consolidated this inform
 1 Download [All you need to flash Motorola phones](https://addictivetips.com/app/uploads/2011/01/Moto_MSM_Root.zip).  
 2. Follow instructions in this [archive link](https://web.archive.org/web/20130429180550/http://modmymobile.com/forums/406-motorola-backflip-motus/555749-root-all-versions-backflip.html).
 
-### On stock Android 2.1 Enlair
+### On stock Android 2.1 Eclair
 Follow instructions on [this archive link](https://web.archive.org/web/20130604001109/http://modmymobile.com/forums/567-motorola-backflip-general/558403-how-flash-j_r0dd-mb300-v1-7-6-1-final-recovery-official-2-1-eclair-update.html) instead.
 
 ## Recovery
