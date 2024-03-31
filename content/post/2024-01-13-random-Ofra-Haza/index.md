@@ -14,7 +14,7 @@ I recently came across this song on my favorite YouTube channel, [Kordhell - Sho
 
 Within the first 5 seconds, I immediately recognized the motif! This is Ofra! Ofra Haza!
 
-Productivity meets culture. Many people never heard of her, which is a shame. Regardless, here is the song the motif it's from,
+Productivity meets culture. Many people had never heard of her, which is a shame. Regardless, here is the song the motif it's from,
 
 ![hqdefault.jpg](./hqdefault.jpg)
 
@@ -24,7 +24,8 @@ Productivity meets culture. Many people never heard of her, which is a shame. Re
 
 As I was writing this post, I did more research and found out that Ofra Haza was more widespread in Europe than other parts of the world. She was said to be Madonna of the East,
 
-![Wiki](./Wiki.png)  
+![Wiki](./Wiki.png) | 
+---- | 
 *popular in Europe, not so much elsewhere*
 
-I'm an analyst, and Kordhell is probably from Europe if he/she used this motif in their song. Speaking of, I didn't really like "Shoot to Kill", but I loved "Live Another Day". However the case, I hope the reader can benefit from learning something new! 
+I'm an analyst, and Kordhell is probably from Europe if he/she used this motif in their song. Speaking of, I didn't really like "Shoot to Kill", but I loved "Live Another Day". Whichever it is, I hope the reader can benefit from learning something new! 
