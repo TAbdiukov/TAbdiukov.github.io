@@ -1,5 +1,8 @@
 # yaml prep
 *.yaml linguist-detectable
 
+# idea
+*.md linguist-detectable
+
 # https://stackoverflow.com/a/70542975/12258312
 content/report/** linguist-vendored
