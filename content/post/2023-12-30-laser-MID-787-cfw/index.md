@@ -63,17 +63,16 @@ Unfortunately, I lost my PCB photos. However, the PCB looks like this,
 
 ## Explanation
 
-* SP Flash Tool, by default, performs a cyclic redundancy check, so **CRC check information has to adjusted or disabled**.
-* Transplanted recovery.img for Bravis NB753 only works on Laser MID-787 in landscape mode. Otherwise, works OK. Picture from another life,
-	![Everdrive N8 for Famiclones](./everdrive.png)
+* SP Flash Tool, by default, performs a cyclic redundancy check, so **CRC check information has to be adjusted or disabled**.
+* Transplanted recovery.img for Bravis NB753 only works on Laser MID-787 in landscape mode. Otherwise, works OK.
 
 * Trivia: [BRAVIS NB753 specs on Rozetka ua](https://rozetka.com.ua/ua/bravis-nb753-7-3g/g7190433/), and it is too old to be sold.
 * For Laser MID-787: LittleKernel (LK.bin) has to be patched. Otherwise, LK.bin prevents tablet from booting with 
-	* LK.bin doesn't seem to be transplantable or otherwise interchangeable from other `k706` tablets, because LK.bin also contains compiled individual drivers. So, stock LK.bin from `7.0_MT8321_K706.N0.V10.8.CQ-V07.2493` had to be patched.
+	* LK.bin does not seem to be transplantable or otherwise interchangeable from other `k706` tablets, because LK.bin also contains compiled individual drivers. So, stock LK.bin from `7.0_MT8321_K706.N0.V10.8.CQ-V07.2493` had to be patched.
 
 ### Why older Laser MID-787 firmware?
 
-The reason why older Laser MID-787 firmware is recommended deserves its dedicated section. I believe that changes across firmware builds may demonstrate that **Laser is involved in anti-consumer practices**,
+The reason the older Laser MID-787 firmware is recommended deserves a dedicated section. I believe that changes across firmware builds may demonstrate that **Laser is involved in anti-consumer practices**,
 
 Comparison can be seen below, better aspects are <ins>**highlighted**</ins>,
 
@@ -156,7 +155,7 @@ adb reboot recovery
 
 ### In Android
 
-`Magisk-*.apk.zip` will install temporary `su`, but it won't install Magisk app (APK) itself. Therefore, use AOSP file manager to install Magisk APK.
+`Magisk-*.apk.zip` will install temporary `su`, but it will not install Magisk app (APK) itself. Therefore, use AOSP file manager to install Magisk APK.
 
 Connect to the internet.
 
@@ -164,11 +163,11 @@ After Magisk app is installed, run it. It will complain of the "incomplete insta
 
 ### Optional – Delete GApps and further customise
 
-Unlike on official Android 10, display does not need to be adjusted to be useable.
+Unlike on official Android 10, display does not need to be adjusted to be usable.
 
-There is nothing extraordinary about this step. I don't recommend any "GApps remover" scripts, as they (as of 2023) do not verify what they are deleting. As such, I recommend using any common Root-based app manager, such as Titanium Backup and your brain, to delete unwanted GApps.
+There is nothing extraordinary about this step. I do not recommend any "GApps remover" scripts, as they (as of 2023) do not verify what they are deleting. As such, I recommend using any common Root-based app manager, such as Titanium Backup and your brain, to delete unwanted GApps.
 
-At this point, you fully unlocked, rooted and customised your Laser MID-787. Congratulations!
+At this point, you fully unlocked, rooted, and customised your Laser MID-787. Congratulations!
 
 ---------------------------------
 
