@@ -17,7 +17,7 @@ After a 2-year perilous fight, I'm no longer a citizen of the Russian Federation
 
 ## Discussion
 
-### Why not just burn everything
+### "Why not just" burn everything
 
 A common myth (especially among sentimental people) is: burning a passport is equivalent to renouncing citizenship. No such laws exist, and they can't logically exist, especially in the context of International Law. 
 
@@ -28,7 +28,8 @@ Furthermore, to truly renounce citizenship after it, one would have to prove cur
 
 As sinister as it is, **[prident man rule](https://www.fdic.gov/regulations/examinations/trustmanual/appendix_c/appendix_c.html)** dictates that a party must exercise all (reasonable) actions an ordinary, prudent man will exercise in these circumstances. Hence, as of 2024, the only true way to renounce citizenship is to do it properly.
 
-### Reasoning
+
+### Reasoning for Renouncing
 
 Starting from year 2024, 19'th of April is a new Federal holiday in the Russian Federation, ["day in memory of the genocide of the Soviet people](https://www.prlib.ru/en/history/1875231). Not even pertinent to "people**s**" or "nations", this Orwellian holiday is an obvious attempt to play a victim, and to eclipse over and obscure the Soviet responsibility for [Holodomor](https://www.europarl.europa.eu/delegations/en/90-years-after-the-holodomor-recognising/product-details/20230123DPU35102), three famines to be exact.
 
