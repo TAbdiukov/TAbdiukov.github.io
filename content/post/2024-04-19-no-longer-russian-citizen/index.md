@@ -4,7 +4,7 @@ title:  "I'm no longer a citizen of the Russian Federation"
 date:   2024-04-19 09:15:00 +1000
 categories: blog
 tags: [russia, citizenship]
-image: 2024-04.gif
+image: 0000-eng.jpg
 subtitle: "After a 2-year perilous fight, I'm no longer a citizen of the Russian Federation from 19th of April 2024."
 ---
 
