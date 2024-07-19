@@ -9,7 +9,7 @@ subtitle: "After a 2-year perilous fight, I'm no longer a citizen of the Russian
 ---
 
 ![eng-0000.jpg](eng-0000.jpg) | 
-----
+---- | 
 After a 2-year perilous fight, I'm no longer a citizen of the Russian Federation from 19th of April 2024. 
 
 ## Discussion
@@ -45,11 +45,11 @@ I'm glad not to be part of this. If anything, then may my actions be an inspirat
 
 ![rus-0000.jpg](rus-0000.jpg) | ![eng-0000.jpg](eng-0000.jpg)
 ---- | ----
-Original | Translation
+Original | Translation (see also: [PDF](AbdiukovCitizenship.pdf)) 
 
 ![2024-04.gif](2024-04.gif) | 
 ---- | 
-All documents burned after renunciation. 
+All documents are burned after renunciation. 
 
 ----------------------
 Tim Abdiukov
