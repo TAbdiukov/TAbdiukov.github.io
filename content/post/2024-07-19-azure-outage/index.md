@@ -9,7 +9,7 @@ subtitle: "Every cloud has a silver lining..."
 
 *Every cloud has a silver lining...*
 
-Today, there was a major global Microsoft Azure cloud outage. The world's (mostly service) economy took a blow, and the news keep fuelling hysteria.
+Today, there was a major global Microsoft Azure cloud outage. The world's economy (mostly service economy) took a blow, and the news keep fuelling hysteria.
 
 How did it affect me? It happened so that on the same day, I took a CSA CCSK v5 upgrade exam. CSA CCSK is about cloud security (governance, applications, networking), and *just* a few days ago, an updated exam came out.
 
@@ -27,6 +27,6 @@ The incident will likely reveal availability management and change management is
 
 1) Perhaps customers had it on easy mode for long, and never considered issues of data portability and app interoperability, e.g., across Availability Zones and / or CSPs.
 2) Customers may take greater care to notice underlying vendor lock-in issues, backup management issues, vendor management issues.
-3) It's a refresher for CSPs to bolster their availability management and pursue higher data center tiers
+3) Ultimately, it's a refresher for CSPs to bolster their availability management and pursue higher datacenter tiers (I would imagine: Tier 3 or above).
 
-Out of something bad, something good can come out as a result. In the meantime, I get to celebrate another achievement.
+In conclusion, out of something bad, something good can come out as a result. In the meantime, I get to celebrate another achievement.
