@@ -11,11 +11,13 @@ subtitle: "Every cloud has a silver lining..."
 
 Today, there was a major global Microsoft Azure cloud outage. The world's (mostly service) economy took a blow, and the news keep fuelling hysteria.
 
-How did it affect me? It happened so that on the same day, I took a CSA CCSK v5 upgrade exam. CSA CCSK is about cloud security (governance, applications, networking), and *just* a few days ago, an updated exam came out. **I passed**, screenshot is below,
+How did it affect me? It happened so that on the same day, I took a CSA CCSK v5 upgrade exam. CSA CCSK is about cloud security (governance, applications, networking), and *just* a few days ago, an updated exam came out.
+
+**I passed**, and screenshot is below,
 
 ![CSA](csa.png)
 
-Prior to that, I passed ISC2 CCSP exam, CCSK v4 exam, and more. Point is, somehow I am home, tired, and, unlike those whiney news anchors or technophobe rsdio hosts, I'm possibly at a unique position to comment about this incident.
+Prior to this, I passed ISC2 CCSP exam, CCSK v4 exam, and more. Somehow I am home, tired, and, unlike those whiney news anchors or technophobe radio hosts, I'm possibly at a unique position to comment about this incident.
 
 What happened from the technical perspective? It's unclear, but it heuristically seems that some system fail-closed much of Azure datacenter infrastructure. Perhaps something in the Azure's global Control plane, less likely in Management plane.
 
