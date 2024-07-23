@@ -12,9 +12,13 @@ subtitle: "After a 2-year perilous fight, I'm no longer a citizen of the Russian
 ---- | 
 After a 2-year perilous fight, I'm no longer a citizen of the Russian Federation from 19th of April 2024. 
 
+![rus-0000.jpg](rus-0000.jpg) | ![eng-0000.jpg](eng-0000.jpg)  
+---- | ----
+Original | Translation (see also: [PDF](AbdiukovCitizenship.pdf))  
+
 ## Discussion
 
-### "Why not just" burn everything
+### "Why not just" burn everything immediately
 
 A common myth (especially among sentimental people) is: burning a passport is equivalent to renouncing citizenship. No such laws exist, and they can't logically exist, especially in the context of International Law. 
 
@@ -43,9 +47,6 @@ Similarly, after Nova Kakhovka dam was blown, [Russian occupiers only allowed Ru
 
 I'm glad not to be part of this. If anything, then may my actions be an inspiration for those who cannot do so. I'm glad to burn this bridge and remove myself from from this horror and sorrow.
 
-![rus-0000.jpg](rus-0000.jpg) | ![eng-0000.jpg](eng-0000.jpg)
----- | ----
-Original | Translation (see also: [PDF](AbdiukovCitizenship.pdf)) 
 
 ![2024-04.gif](2024-04.gif) | 
 ---- | 
