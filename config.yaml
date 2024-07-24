@@ -23,10 +23,6 @@ menu:
     - name: extracts
       url: "/extract"
       weight: 20
-    - name: reports
-      url: "/report"
-      weight: 30
-
 
 theme: hugo-vitae-nord
 favicon: true
