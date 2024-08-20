@@ -10,7 +10,7 @@ subtitle: ".class extraction. βeta version"
 # .class extraction
 *βeta version*
 
-The guide is based on the previous private research.
+The guide is mainly based on the previous private research.
 
 ## Tools used
 
