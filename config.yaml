@@ -20,9 +20,12 @@ menu:
     - name: posts
       url: "/post"
       weight: 10
+    - name: specs
+      url: "/specs"
+      weight: 20
     - name: extracts
       url: "/extract"
-      weight: 20
+      weight: 30
 
 theme: hugo-vitae-nord
 favicon: true
