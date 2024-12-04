@@ -1,12 +1,25 @@
-With Hugo:
+## With Git:
 
-build:
+clone,
+```
+git clone --recurse-submodules -j8 git://github.com/foo/bar.git
+cd bar
+```
+
+update submodules,
+```
+git submodule update --remote --merge
+```
+
+## With Hugo:
+
+build,
 
 ```
 hugo --gc --minify -D --theme=hugo-vitae-nord
 ```
 
-run:
+run,
 
 ```
 hugo server -D -F --theme=hugo-vitae-nord
