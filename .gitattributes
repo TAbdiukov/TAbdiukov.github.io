@@ -2,8 +2,10 @@
 *.yaml linguist-detectable
 
 # https://stackoverflow.com/a/70542975/12258312
-content/report/**/* linguist-vendored
-content/report/** linguist-vendored
+content/specs/**/* linguist-vendored
+content/specs/** linguist-vendored
 
 # Do NOT detect
 *.rtf linguist-detectable=false
+content/specs/*.htm linguist-detectable=false
+content/specs/*.html linguist-detectable=false
