@@ -14,8 +14,8 @@ subtitle: AIDA64, CPU-Z, general info
 
 ## CPU-Z
 
-* [PC #1 (149kb)](./A-PC-CPU-Z.htm)
-* [PC #2 (176kb)](./T-PC-CPU-Z.htm)
+* [PC #1 (149kb)](./A-PC-CPU-Z.html)
+* [PC #2 (176kb)](./T-PC-CPU-Z.html)
 
 ## General info
 
