@@ -1,5 +1,5 @@
 baseURL: https://open.id.au/
-disablePathToLower: false
+disablePathToLower: true
 languageCode: en
 title: Tim Abdiukov
 author: Tim Abdiukov
