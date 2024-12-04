@@ -2,7 +2,7 @@
 layout: post
 title:  "DELL Latitude E6530"
 date:   2023-12-27 13:10:00 +0100
-categories: report
+categories: specs
 tags: [tech, hardware, windows, dell, laptop]
 image: OriginalPng.png
 subtitle: "Sturdy and reliable"

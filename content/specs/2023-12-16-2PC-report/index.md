@@ -2,7 +2,7 @@
 layout: post
 title:  "2 PCs – technical reports"
 date:   2023-12-16 09:05:00 +0100
-categories: report
+categories: specs
 tags: [tech, hardware, windows, liveusb]
 subtitle: AIDA64, CPU-Z, general info
 ---

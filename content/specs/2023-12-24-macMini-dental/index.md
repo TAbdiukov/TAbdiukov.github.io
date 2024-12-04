@@ -2,7 +2,7 @@
 layout: post
 title:  "Mac mini 4,1 (ADA) – System Profile"
 date:   2023-12-24 14:00:00 +0100
-categories: report
+categories: specs
 tags: [tech, hardware, apple, mac, health]
 image: mac-mini-2010-device.jpg
 subtitle: Mac mini that belonged to a Distinguished member of Australian Dental Association 

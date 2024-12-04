@@ -2,7 +2,7 @@
 layout: post
 title:  "GPS Satellite Navigation / Output: DC 5V 1.5A / AVBT"
 date:   2023-12-25 12:35:00 +0100
-categories: report
+categories: specs
 tags: [tech, hardware, satnav, china, wince]
 image: pic.jpg
 ---

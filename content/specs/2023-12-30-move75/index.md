@@ -2,7 +2,7 @@
 layout: post
 title:  "Navman MOVE75"
 date:   2023-12-30 07:58:00 +0100
-categories: report
+categories: specs
 tags: [tech, hardware, satnav, wince]
 image: move75.png
 subtitle: "Navman satnav, unlocked and hacked to use iGO maps."

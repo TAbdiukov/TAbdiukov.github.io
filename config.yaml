@@ -3,7 +3,6 @@ disablePathToLower: true
 languageCode: en
 title: Tim Abdiukov
 author: Tim Abdiukov
-relativeURLs: true
 
 markup:
   goldmark:
