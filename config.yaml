@@ -43,13 +43,13 @@ params:
       url: "https://github.com/TAbdiukov"
     - name: Email
       icon: far fa-envelope
-      cmd: "mailto:TAbdiukov-﹫﹘gmail.com"
+      cmd: "mailto:TAbdiukov-＠﹘gmail.com"
     - name: LinkedIn
       icon: fab fa-linkedin
       url: "https://linkedin.com/in/tim-abdiukov"
     - name: Email
       icon: fa fa-briefcase
-      cmd: "mailto:TAbdiukov﹘﹫-nts.eu"
+      cmd: "mailto:TAbdiukov﹘＠-nts.eu"
     - name: RSS
       icon: fas fa-rss
       url: /index.xml
