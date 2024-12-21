@@ -32,9 +32,10 @@ favicon: true
 
 copyright: "Personal blog of Tim Abdiukov"
 
+taxonomies:
+  stack: stacks  # Enables subcategories like /stack/apple
 
 # social links
-
 params:
   avatar: "/Logo-min.png"
   social:

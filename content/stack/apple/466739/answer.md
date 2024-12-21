@@ -2,7 +2,8 @@
 layout: post
 title:  "Installing Windows 7 (and beyond) onto a mid-2010 Mac mini with Mac OS X Snow Leopard without Boot Camp or an optical (DVD) drive – answer"
 date:   2024-01-10 10:14:00 +0100
-categories: stack
+categories: apple
+weight : 2 # answers always have weight=2 
 tags: [tech, apple, mac, boot, mbr]
 ---
 
@@ -29,8 +30,8 @@ The procedure (guide) can be found below,
 *ensure you have:*
 
 * Target Mac machine with a spare volume for Windows.
-	* Create a FAT (or exFAT, if [Mac OS X 10.6.5 or higher is used](https://www.macrumors.com/2010/11/11/mac-os-x-10-6-5-notes-exfat-support-airprint-flash-player-vulnerability-fixes/)) formatted volume labeled "BOOTCAMP". If this volume already exists, then erase the contents.
-	> **Note:** At this point, the focus is on the partition's file system to be recognizable by Windows. The file system will be formatted to NTFS at a later stage.
+    * Create a FAT (or exFAT, if [Mac OS X 10.6.5 or higher is used](https://www.macrumors.com/2010/11/11/mac-os-x-10-6-5-notes-exfat-support-airprint-flash-player-vulnerability-fixes/)) formatted volume labeled "BOOTCAMP". If this volume already exists, then erase the contents.
+    > **Note:** At this point, the focus is on the partition's file system to be recognizable by Windows. The file system will be formatted to NTFS at a later stage.
 * Spare Windows machine (regardless of installation OS)
 * At least 2 USB sticks 16GB+. USB stick #1 is for **Mac OS X Recovery**, USB stick #2 is for **carrying over image files + driver and support files**, and maybe even USB stick #3 for 'in-case-ofs'. 
 
@@ -87,13 +88,13 @@ Sergei Strelec's WinPE (in `WinPE 8 (x86)` environment) comes with last x86 host
 * **Use at your own risk!** 
 * For compatibility reasons, Parallels Desktop's "target OS" has to be the highest available option, i.e. "Windows 7"
 * For compatibility reasons, Sergei Strelec's WinPE may only be run in the mode of **`Boot WinPE 8 Sergei Strelec (x86) Native (Old PC)`**, [see screenshot](https://imgur.com/a/Nrp1cUd). Every other option causes Parallels Desktop 5 VM to crash.
-	* Technically, Windows 8-based OS runs within virtualized environment that targets Windows 7, but no incompatibilities or issues were observed.
+    * Technically, Windows 8-based OS runs within virtualized environment that targets Windows 7, but no incompatibilities or issues were observed.
 * Sergei Strelec's 8 WinPE runs on 1GB of VRAM with ~640MB of VRAM free.
 
 #### (Your research): Other options
 
 * Otherwise, due to constraints, it likely will be Windows XP/7/8 based, perhaps legal copy of MiniPE/BartPE. To keep guide neutral, you may benefit from finding an ISO at [system-repair](https://github.com/gamtiq/system-repair). Live image ISO will need to run WinNTSetup.
-	* If WinNTSetup is not offered by live image, then ideally, the live image should produce a RAM Disk (usually, spanned using ImDisk software), allowing you to copy files to RAM. If it doesn't, there will be several extra steps. The RAM Disk [would look like this](https://www.megaleecher.net/uploads/Windows-RAMDisk-5.jpg).
+    * If WinNTSetup is not offered by live image, then ideally, the live image should produce a RAM Disk (usually, spanned using ImDisk software), allowing you to copy files to RAM. If it doesn't, there will be several extra steps. The RAM Disk [would look like this](https://www.megaleecher.net/uploads/Windows-RAMDisk-5.jpg).
 
 ## Software
 *to obtain and install:*
@@ -104,15 +105,15 @@ Sergei Strelec's WinPE (in `WinPE 8 (x86)` environment) comes with last x86 host
 *Note: Screenshot is for demonstration. Windows 7 will not be virtualized as in the screenshot.*
 
 * Full version of Parallels Desktop for Mac 5-6 (or similar) for Mac OS X.
-	* In this guide, **Parallels Desktop 5.0.9344.558741** was used.
-	* **Parallels Desktop 5.0.9344.558741** requires activation with a **serial** number.
-	* You need to install it on your target Mac machine.
-	
+    * In this guide, **Parallels Desktop 5.0.9344.558741** was used.
+    * **Parallels Desktop 5.0.9344.558741** requires activation with a **serial** number.
+    * You need to install it on your target Mac machine.
+
 ### On spare Windows machine
-	
+
 * [7-zip](https://www.7-zip.org/download.html)
 * (Required if Recovery disk is in DMG format): [TransMac](https://www.acutesystems.com/scrtm.htm)
-	* Trial version is OK
+    * Trial version is OK
 * ImgBurn, to generate ISO images from a folder (for Windows OS installations only). It is likely to come in handy for several ISO-specific steps.
 * (Optional) VirtualBox or any other virtualization software. It may come in handy for 'WinNTSetup' steps below.
 
@@ -123,13 +124,13 @@ Sergei Strelec's WinPE (in `WinPE 8 (x86)` environment) comes with last x86 host
 **Note**: WinNTSetup [dropped Windows XP and 32-bit host OS support](https://www.maes.idv.tw/download/Files/Win10_Programs/WinNTSetup/5.2.6/WinNTSetup_v526/Changelog.txt) in version 4.5.0. As such, the last version compatible with any 32-bit 'live' environment is v4.2.5.
 
 * Latest WinNTSetup versions are reported to require **ADK files**, which can normally be downloaded online, which may be an issue in 'live' environment. To ensure smooth experience, you may need to:
-	* Download ADK files from Microsoft and place them in the WinNTSetup's `DISM` folder(s). For example, for version 4.2.5, DISM folders are located at,
-		```
-		{{WinNTSetup}}\Tools\x64\DISM
-		{{WinNTSetup}}\Tools\x86\DISM
-		```
-		with respect to the CPU architecture.
-	* Ensure that WinNTSetup works as expected in your live environment, for example, by using a virtualization software (e.g. VirtualBox), whereby you can attach your live image, attach WinNTSetup ISO image on another drive, and then ensure that WinNTSetup starts. 
+    * Download ADK files from Microsoft and place them in the WinNTSetup's `DISM` folder(s). For example, for version 4.2.5, DISM folders are located at,
+        ```
+        {{WinNTSetup}}\Tools\x64\DISM
+        {{WinNTSetup}}\Tools\x86\DISM
+        ```
+        with respect to the CPU architecture.
+    * Ensure that WinNTSetup works as expected in your live environment, for example, by using a virtualization software (e.g. VirtualBox), whereby you can attach your live image, attach WinNTSetup ISO image on another drive, and then ensure that WinNTSetup starts.
 * Finally, create an ISO image with a portable copy of WinNTSetup using ImgBurn
 * Optionally, you may re-pack your live environment to add your copy of WinNTSetup, as you will be able to attach WinNTSetup to your live environment.
 * Once you are sure that WinNTSetup will work with live image, WinNTSetup ISO file needs to be copied to your Mac.
@@ -190,68 +191,68 @@ Takes care of 112 update packages, installable in order specified,
 
 1. Launch **Parallels Desktop for Mac**
 2. Click on **New Windows Installation**
-	![Splash](https://i.imgur.com/DzBU2X7.png)
+    ![Splash](https://i.imgur.com/DzBU2X7.png)
 
 3. In the **Operating System Detection** window, attach your **live image**,
-	![Attach DVD 1](https://i.imgur.com/3E5uKgr.png)
+    ![Attach DVD 1](https://i.imgur.com/3E5uKgr.png)
 
 4. Regardless of Parallels Desktop detection or lack thereof, ensure that that "Detected Operating System" closely corresponds to your **live image OS** (not installation OS). In my case, my live image OS is based on Windows XP, so I selected corresponding option,
-	![Could not detect OS](https://i.imgur.com/l4wB9mQ.png)
+    ![Could not detect OS](https://i.imgur.com/l4wB9mQ.png)
 
-	> **Note:** For WinPE 8 Sergei Strelec (x86) or any other Windows 8 based live environments, pick "Windows 7", being the closest available option in Parallels Desktop 5 for Mac.  
+    > **Note:** For WinPE 8 Sergei Strelec (x86) or any other Windows 8 based live environments, pick "Windows 7", being the closest available option in Parallels Desktop 5 for Mac.
 5. In the **Virtual Machine Type** window, select **Custom** and click **Continue**,
-	![Virtual Machine Type - Custom](https://i.imgur.com/Mxk3JnC.png)
+    ![Virtual Machine Type - Custom](https://i.imgur.com/Mxk3JnC.png)
 
 6. In the **CPU and Memory Options** window, I left everything as-is and clicked **Continue**,
-	![CPU and Memory Options](https://i.imgur.com/1KLhOfs.png)
+    ![CPU and Memory Options](https://i.imgur.com/1KLhOfs.png)
 
 7. In the **Hard Disk Options** window, select **Boot Camp Partition**. Is this options is generally risky, you may receive some warnings,
-	![Hard Disk Opt: Boot Camp Partition](https://i.imgur.com/5yPAyTo.png)
+    ![Hard Disk Opt: Boot Camp Partition](https://i.imgur.com/5yPAyTo.png)
 
 8. In the **Boot Camp Disk** window, select **disk0** (i.e. the Mac's internal disk),
-	![Boot Camp Disk - Always disk0](https://i.imgur.com/pB3cwXk.png)
+    ![Boot Camp Disk - Always disk0](https://i.imgur.com/pB3cwXk.png)
 
 9. In the **Networking Type** window, it is advised (for security reasons) to select **No Networking**,
-	![Networking Type - No Networking](https://i.imgur.com/mz6cA0h.png)
+    ![Networking Type - No Networking](https://i.imgur.com/mz6cA0h.png)
 
 10. In the **Optimization Options** window, the default option of: "optimizations **for a Virtual Machine**" makes better sense (as it will use many resources for itself in the process), leave everything as-is and click **Continue** to proceed,
-	![Optimize for: VM](https://i.imgur.com/73BDIUB.png)
+    ![Optimize for: VM](https://i.imgur.com/73BDIUB.png)
 
 11. In the **Name and Location** window, you may opt for a fancy VM name (such as `Winstall`) and click **Create**,
-	![Fancy Winstall](https://i.imgur.com/GR8KYLu.png)
+    ![Fancy Winstall](https://i.imgur.com/GR8KYLu.png)
 
 12. You should be greeted by a window like this,
-	![Winstall is ready](https://i.imgur.com/71x2yGl.png)  
-	Do not click on the VM just yet.
+    ![Winstall is ready](https://i.imgur.com/71x2yGl.png)
+    Do not click on the VM just yet.
 
 ### Configure VM
 * **Important Note:** After the virtual machine is created. More configuring will be required, so **do not launch VM just yet**. If you launched your VM, simply stop it for now, by selecting,  
-	```
-	Top menu bar -> Virtual Machine -> Stop
-	```
+    ```
+    Top menu bar -> Virtual Machine -> Stop
+    ```
 
 1. Now proceed to the virtual machine configuration, by selecting,  
-	```
-	Top menu bar -> Virtual Machine -> Configure
-	```
+    ```
+    Top menu bar -> Virtual Machine -> Configure
+    ```
 2. Within opened window, select furthest to the right tab of **Hardware**,
-	![Rightmost "Hardware" Tab](https://i.imgur.com/m4WAfPu.png)
+    ![Rightmost "Hardware" Tab](https://i.imgur.com/m4WAfPu.png)
 
 3. Select **CD/DVD 1**, ensure it is **Connected**, and direct **Source** to **live image ISO** *(2<sup>nd</sup> time)*,
-	![CD/DVD 1: my_live_image.iso](https://i.imgur.com/2H4QrJI.png)
+    ![CD/DVD 1: my_live_image.iso](https://i.imgur.com/2H4QrJI.png)
 
 4. Underneath "devices" section, find and click on the **<kbd>+</kbd> (Add)** button, and then select **CD/DVD**,  
-	![Cut plus option screen](https://i.imgur.com/aEoJmH1.png)
+    ![Cut plus option screen](https://i.imgur.com/aEoJmH1.png)
 
 5. You have now added a second CD/DVD drive. Select **CD/DVD 2**, ensure it is **Connected**, and direct **Source** to **installation image ISO**, 
-	![CD/DVD 2: en_windows_7_](https://i.imgur.com/bBEk8ax.png)
+    ![CD/DVD 2: en_windows_7_](https://i.imgur.com/bBEk8ax.png)
 
 6. Select **Floppy Disk**. Pre-empt Parallels Desktop complaints: ensure it is **<ins>not</ins>** **Connected**, by unticking Connected checkbox,
-	![Floppy Disk - Not Connected](https://i.imgur.com/w84697u.png)
+    ![Floppy Disk - Not Connected](https://i.imgur.com/w84697u.png)
 
 7. Finally, select **Boot Order**. Ensure that **CD/DVD is above** any of the Hard Disks,
-	![Boot Order: CD/DVD above HDDs](https://i.imgur.com/M4ksWqk.png)  
-	*Optionally*, you may enable "Select boot device on startup", though you won't need it.
+    ![Boot Order: CD/DVD above HDDs](https://i.imgur.com/M4ksWqk.png)
+    *Optionally*, you may enable "Select boot device on startup", though you won't need it.
 
 > **Note:** If you *absolutely* know that WinNTSetup is external to the live image, and RAM Disk (usually, spanned using ImDisk software) is not offered by your live image, then you may repeat the steps 4-5 to attach a third CD/DVD drive, that will use that external WinNTSetup ISO.
 
@@ -261,16 +262,16 @@ Takes care of 112 update packages, installable in order specified,
 
 1. Launch the VM. 
 * **Important Note:** In stage 3, including now, you will encounter a message like this a few times, 
-	![Security Error Brief](https://i.imgur.com/xzXkMgz.png)  
-	Don't tick anything, and just click "OK". You want to monitor these security messages in the process.
+    ![Security Error Brief](https://i.imgur.com/xzXkMgz.png)
+    Don't tick anything, and just click "OK". You want to monitor these security messages in the process.
 
 2. Ensure installation ISO is attached to any CD/DVD **except** CD/DVD 1. Its files will be used as WinNTSetup input.
-	> **Note:** Some older live images (e.g. Windows XP SP2 based) struggle with Windows 7 DVD UDF (ISO 9660 noncompliant) file system, and incorrectly detect it as CDFS. If this happens, then the Windows 7 installation files will have to be provided another way. For example, this can be done by: sourcing Windows 7 files to ImgBurn, and creating a data-only, ISO 9660 compliant DVD image with these files, without bootable functionality. ImgBurn will complain a few times, but since the files will only be used as raw input for WinNTSetup, bootability is not an important factor.
+    > **Note:** Some older live images (e.g. Windows XP SP2 based) struggle with Windows 7 DVD UDF (ISO 9660 noncompliant) file system, and incorrectly detect it as CDFS. If this happens, then the Windows 7 installation files will have to be provided another way. For example, this can be done by: sourcing Windows 7 files to ImgBurn, and creating a data-only, ISO 9660 compliant DVD image with these files, without bootable functionality. ImgBurn will complain a few times, but since the files will only be used as raw input for WinNTSetup, bootability is not an important factor.
 
 4. Ensure WinNTSetup is available to the live image.
-	* If WinNTSetup is external, and is not packed into the live image, then copy WinNTSetup folder onto the RAM Disk. 
-		* If RAM Disk, is not offered by a live image (as it is, usually, spanned using ImDisk software), then you will need to either repack your live image with ImgBurn to include WinNTSetup OR use a third CD/DVD drive in the next step. 
-	* If WinNTSetup is available within the live image, then you can simply run it.
+    * If WinNTSetup is external, and is not packed into the live image, then copy WinNTSetup folder onto the RAM Disk.
+        * If RAM Disk, is not offered by a live image (as it is, usually, spanned using ImDisk software), then you will need to either repack your live image with ImgBurn to include WinNTSetup OR use a third CD/DVD drive in the next step.
+    * If WinNTSetup is available within the live image, then you can simply run it.
 
 ### Formatting the partition
 
@@ -292,7 +293,7 @@ Parallels Desktop for Mac will complain of an [error writing boot loader](https:
 #### Problem
 
 If you were to use WinNTSetup now and specify Bootdrive,  
-	![WinNTSetup 2-1 Inactive](https://i.imgur.com/432o9LF.png)
+    ![WinNTSetup 2-1 Inactive](https://i.imgur.com/432o9LF.png)
 
 Then you may notice that **BOOT FLAG** indicator is inactive (red).
 
@@ -301,30 +302,30 @@ It should otherwise be fixed by WinNTSetup. However, some builds of WinNTSetup d
 #### Solution - `diskpart`
 
 1. Run the following command-line tool,
-	```
-	diskpart
-	```
+    ```
+    diskpart
+    ```
 
 2. `diskpart` utility is interactive. Enter the command below to list volumes.
-	```
-	list volume
-	```
+    ```
+    list volume
+    ```
 
 3. Select volume with future Windows installation on it. Replace `#` with the volume number for this volume,
-	```
-	select volume #
-	```
+    ```
+    select volume #
+    ```
 
 4. Set volume as active
-	```
-	active
-	```
-	Parallels Desktop for Mac will complain of an [error writing boot loader](https://i.imgur.com/xzXkMgz.png) (MBR). This is OK and expected.
+    ```
+    active
+    ```
+    Parallels Desktop for Mac will complain of an [error writing boot loader](https://i.imgur.com/xzXkMgz.png) (MBR). This is OK and expected.
 
 5. Exit `diskpart`
-	```
-	exit
-	```
+    ```
+    exit
+    ```
 
 In the "WinNTSetup" steps below, `BOOT PART` check should now be green (passed).
 
@@ -333,32 +334,32 @@ In the "WinNTSetup" steps below, `BOOT PART` check should now be green (passed).
 1. Start WinNTSetup.
 2. Ensure that **`BOOT PART`** indicator is active (green). If not, mark partition as "active" as described above.
 3. Begin configuring installation:
-	* Select a top panel corresponding to your installation Windows release (e.g. Windows 7, not Windows 2000)
-	* Select location to `INSTALL.WIM` file, within installation image. It is typically a large (2GB+) file within installation DVD. For example, if installation image is mounted to disk `D:\`, then the .WIM file in question may probably be found in,
-		```
-		D:\Sources\Install.wim
-		```
-	* For **Boot Drive** and **Installation Drive** locations, select partition (i.e. a drive letter) to which Windows will be installed.
-	* In options below: Select desired Windows **Edition**
-	* In options below: Check **drive letter preassignment**.
-	* In options below: Select **Mount Installation Drive** to be **`C:`** (otherwise, Windows may later be found on `D:`)
+    * Select a top panel corresponding to your installation Windows release (e.g. Windows 7, not Windows 2000)
+    * Select location to `INSTALL.WIM` file, within installation image. It is typically a large (2GB+) file within installation DVD. For example, if installation image is mounted to disk `D:\`, then the .WIM file in question may probably be found in,
+        ```
+        D:\Sources\Install.wim
+        ```
+    * For **Boot Drive** and **Installation Drive** locations, select partition (i.e. a drive letter) to which Windows will be installed.
+    * In options below: Select desired Windows **Edition**
+    * In options below: Check **drive letter preassignment**.
+    * In options below: Select **Mount Installation Drive** to be **`C:`** (otherwise, Windows may later be found on `D:`)
 
-	The resulting configuration should look like this,
-	![Early WinNTSetup v2](https://i.imgur.com/soVsPzZ.png)
+    The resulting configuration should look like this,
+    ![Early WinNTSetup v2](https://i.imgur.com/soVsPzZ.png)
 
 4. Click on "Setup". You will proceed to the next window.
 5. In the **Ready?** window, observe both "Bootdrive" and "Installationdrive" being configured properly. Most importantly, ensure that for **Bootsector** option, **Use bootsect.exe to update the boot code** (default option) is selected,
-	![WinNTSetup - Ready?](https://i.imgur.com/H2XJ1lS.png)
+    ![WinNTSetup - Ready?](https://i.imgur.com/H2XJ1lS.png)
 
 6. Finally, click "OK" and observe WinNTSetup begin its process.
 7. Toward completion of WinNTSetup operation, as WinNTSetup is **Updating boot code**, Parallels Desktop for Mac will complain of an [error writing boot loader](https://i.imgur.com/xzXkMgz.png) (MBR). This is OK and expected,
-	![WinNTSetup - boot code](https://i.imgur.com/lMaWPh5.png)  
-	> **Note**: WinNTSetup runs `bootsect.exe` at this point.
+    ![WinNTSetup - boot code](https://i.imgur.com/lMaWPh5.png)
+    > **Note**: WinNTSetup runs `bootsect.exe` at this point.
 8. Wait a bit more and observe WinNTSetup completing its process and informing that "Setup is done",
-	![WinNTSetup - Finish](https://i.imgur.com/Ic4P4Fv.png)
+    ![WinNTSetup - Finish](https://i.imgur.com/Ic4P4Fv.png)
 
 9. Once WinNTSetup is finished, close the program and perform a sanity check. Open WinNTSetup again and (as though you wanted to use it again) briefly go through configuration again. Once **Bootdrive location** is configured, ensure that all checkmarks are ticked and green,
-	![WinNTSetup - all green](https://i.imgur.com/Tt42HAz.png)
+    ![WinNTSetup - all green](https://i.imgur.com/Tt42HAz.png)
 
 The installation is largely complete. However, as can be inferred by [errors writing boot loader](https://i.imgur.com/xzXkMgz.png), Mac will not boot to the second OS. There is no rapid way to rectify this, so you'll need to use the Mac OS recovery disk.
 
@@ -389,33 +390,33 @@ The resource will be several kilobytes.
 3. Open Disk Utility and take note of your installation drive ID and the volume that contains `vm.hdd`. **Be prudent and write it down!** For example, it may be that: `/dev/disk0` is your Windows installation drive and `/Volumes/USB2/` is your USB #2 **with `vm.hdd`** inside.
 4. While still in disk utility, unmount every partition of the installation drive, so that the drive is not busy.
 5. Open Terminal
-	* 1/4: Sanity check: confirm your {{installation_drive}} by running,
-		```
-		diskutil list
-		```
-	* 2/4: Ensure USB #2's `vm.hdd` (and `PhysicalMbr.hds` inside of it) can be accessed by Mac OS X Recovery disk, by running the following commands,
-		```
-		ls /Volumes/{{USB2}}
-		ls /Volumes/{{USB2}}/vm.hdd
-		cat /Volumes/{{USB2}}/vm.hdd/PhysicalMbr.hds
-		```
-		*`ls` returns directory listing, `cat` prints file contents*
+    * 1/4: Sanity check: confirm your {{installation_drive}} by running,
+        ```
+        diskutil list
+        ```
+    * 2/4: Ensure USB #2's `vm.hdd` (and `PhysicalMbr.hds` inside of it) can be accessed by Mac OS X Recovery disk, by running the following commands,
+        ```
+        ls /Volumes/{{USB2}}
+        ls /Volumes/{{USB2}}/vm.hdd
+        cat /Volumes/{{USB2}}/vm.hdd/PhysicalMbr.hds
+        ```
+        *`ls` returns directory listing, `cat` prints file contents*
 
-	* 3/4: Backup original MBR,  
-		```
-		dd if=/dev/{{installation_drive}} of=/Volumes/{{USB2}}/backupMBR bs=512 count=1
-		```
+    * 3/4: Backup original MBR,
+        ```
+        dd if=/dev/{{installation_drive}} of=/Volumes/{{USB2}}/backupMBR bs=512 count=1
+        ```
 
-	* 4/4: Overwrite the installation boot sector,  
-		```
-		dd if=/Volumes/{{USB2}}/vm.hdd/PhysicalMbr.hds of=/dev/{{installation_drive}} bs=512 count=1
-		```
+    * 4/4: Overwrite the installation boot sector,
+        ```
+        dd if=/Volumes/{{USB2}}/vm.hdd/PhysicalMbr.hds of=/dev/{{installation_drive}} bs=512 count=1
+        ```
 
-	* (Optional): Sanity-check. Run something like,
-		```
-		head -n 5 /dev/{{installation_drive}}
-		```
-		to confirm that the MBR was overwritten. Prior to `EFI`, You should see some Google-able strings used by Windows in the event of boot errors.
+    * (Optional): Sanity-check. Run something like,
+        ```
+        head -n 5 /dev/{{installation_drive}}
+        ```
+        to confirm that the MBR was overwritten. Prior to `EFI`, You should see some Google-able strings used by Windows in the event of boot errors.
 
 > **Note:** Even if MBR was overwritten successfully and as required, you will not be able to use `Startup Disk` utility to immediately boot straight to Windows. The reason for this likely has to do with Mac boot loader code having to detect Windows installation first.
 
@@ -431,16 +432,16 @@ The resource will be several kilobytes.
 ### Getting started with SysPrep Phase
 
 1. Boot into Windows. You should be greeted by "Set up Windows" window like this,
-	![Set up Windows](https://i.imgur.com/jy1o8hh.png)
+    ![Set up Windows](https://i.imgur.com/jy1o8hh.png)
 
 2. Next, press the <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>F3</kbd> keys to restart Windows in Audit mode. If you are using a wireless keyboard, then you may have to utilize the On-Screen Keyboard. See `Ease of access` on the lower left of the screen.
 3. (Suggestion) At this point, prohibiting your Mac access to the internet is generally a good idea, not so much because of telemetry, but because necessary software and updates are not yet installed.
 4. Turn off Windows Update service temporarily.
-	* Using Start menu, launch `services.msc`.
-	* Locate `Windows Update`.
-	* Change "Startup type" to "Manual".
-	* If the service is running, stop it using "Stop" button.
-	* Close the "Services" window.
+    * Using Start menu, launch `services.msc`.
+    * Locate `Windows Update`.
+    * Change "Startup type" to "Manual".
+    * If the service is running, stop it using "Stop" button.
+    * Close the "Services" window.
 5. If you prohibited your Mac access to the internet in an earlier step, you will now want to allow access. In other words, plug in the ethernet cable or connect by Wi-Fi.
 6. *If you haven't yet in **Save time!** section*, then obtain **drivers and support files** and save them on USB #2. Now, transfer them over to the Windows installation: Attach USB #2 with **drivers and support files** on it, and install them in the following order,
 
@@ -482,6 +483,6 @@ For steps 2-3, feel free to reboot as many times as necessary.
 ### `Sysprep` utility
 
 1. From the Windows Start menu, restart the Mac. Once restarted, if the "System Preparation Tool" window is not displayed, run `C:\Windows\System32\Sysprep\sysprep.exe`. Then select "Shutdown" under the "Shutdown options",  
-	![Sysprep](https://i.imgur.com/IKePlq3.png)
+    ![Sysprep](https://i.imgur.com/IKePlq3.png)
 
 2. Next, select "OK" to shutdown the Mac. **At this point, you have completed the Windows installation process.**
