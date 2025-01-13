@@ -5,7 +5,10 @@ date:   2025-01-12 14:10:00 +1000
 categories: blog
 tags: [cloud, offsec]
 subtitle: "Fighting old battles again?"
+image: Screenshot-2025-01-13-09-42-06-TryHackMe-TAbdiukov.png
 ---
+
+![Screenshot-2025-01-13-09-42-06-TryHackMe-TAbdiukov.png](Screenshot-2025-01-13-09-42-06-TryHackMe-TAbdiukov.png)
 
 List of issues encountered and their corresponding bypasses / fixes
 
