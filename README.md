@@ -7,8 +7,8 @@ Website!
 
 clone,
 ```
-git clone --recurse-submodules -j8 git://github.com/foo/bar.git
-cd bar
+git clone --recurse-submodules -j8 https://github.com/TAbdiukov/TAbdiukov.github.io.git
+cd TAbdiukov.github.io
 ```
 
 update submodules,
