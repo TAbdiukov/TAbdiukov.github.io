@@ -9,3 +9,6 @@ content/specs/** linguist-vendored
 *.rtf linguist-detectable=false
 content/specs/*.htm linguist-detectable=false
 content/specs/*.html linguist-detectable=false
+static/test/*.htm linguist-detectable=false
+static/test/*.html linguist-detectable=false
+static/test/*.mhtml linguist-detectable=false
