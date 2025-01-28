@@ -35,7 +35,7 @@ git clone https://github.com/r3motecontrol/Ghostpack-CompiledBinaries
 python3 -m http.server 8000
 ```
 
-As a sanity-check, on AttackerBox, open Firefox and confirm the Rubeus download URL. It should be,
+As a sanity-check, on AttackBox, open Firefox and confirm the Rubeus download URL. It should be,
 ```
 http://<AttackBox_IP>:8000/Ghostpack-CompiledBinaries/Rubeus.exe
 ```
