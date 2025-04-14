@@ -5,17 +5,16 @@ categories: blog
 tags: [gratia]
 ---
 
-
 ### Stats:
 
-5 (6) books – 🇩🇪 Staatsbibliothek zu Berlin
-3 books – 🇩🇪 Bayerische Staatsbibliothek
-2 books – 🇺🇸 Library of Congress (LoC)
-2 books – 🇺🇸 University of Oklahoma, Bizzell Memorial Library
-1 book – 🇦🇺 Cumberland Council: Auburn Library
-1 book – 🇦🇺 Macquarie University Library
-1 book – 🇦🇺 Murdoch University Library
-1 book – 🇺🇸 University of Illinois, Urbana-Champaign
+* 5 (6) books – 🇩🇪 Staatsbibliothek zu Berlin
+* 3 books – 🇩🇪 Bayerische Staatsbibliothek
+* 2 books – 🇺🇸 Library of Congress (LoC)
+* 2 books – 🇺🇸 University of Oklahoma, Bizzell Memorial Library
+* 1 book – 🇦🇺 Cumberland Council: Auburn Library
+* 1 book – 🇦🇺 Macquarie University Library
+* 1 book – 🇦🇺 Murdoch University Library
+* 1 book – 🇺🇸 University of Illinois, Urbana-Champaign
 
 ### Timeline
 
