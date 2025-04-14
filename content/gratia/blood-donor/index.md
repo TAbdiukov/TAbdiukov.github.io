@@ -1,6 +1,6 @@
 ---
 layout: gratia
-title:  "Book Donations"
+title:  "Blood Donations"
 date:   2020-02-20 00:00:00 +0100
 categories: blog
 tags: [gratia]
