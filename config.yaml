@@ -20,12 +20,18 @@ menu:
     - name: posts
       url: "/post"
       weight: 10
-    - name: specs
-      url: "/specs"
+    - name: philantropy
+      url: "/gratia"
       weight: 20
     - name: extracts
       url: "/extract"
       weight: 30
+    - name: specs
+      url: "/specs"
+      weight: 40
+    - name: apple-q&a
+      url: "/stack/apple"
+      weight: 50
 
 theme: hugo-vitae-nord
 favicon: true
