@@ -26,7 +26,7 @@ tags: [tech, apple, mac, bootcamp, wifi]
 * [The Atheros AR938x wireless network adapter loss connection - Apple Community](https://discussions.apple.com/thread/4226880)
 * [AR938x Atheros driver on Windows 10 - Wait about a minute after sleep - Super User](https://superuser.com/q/1343217)
 
-**[Answer](../apple-477103-answer)**
+**[Answer](../answer/)**
 
 ---------------------------------
 

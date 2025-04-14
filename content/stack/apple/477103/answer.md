@@ -7,7 +7,7 @@ weight: 2
 tags: [tech, apple, mac, bootcamp, wifi]
 ---
 
-**[Question](../apple-477103-question)**
+**[Question](../question/)**
 
 # iMac 12,1 (mid 2011) – Wi-Fi module becomes slow and unstable after sleep on Windows 10 – fix
 

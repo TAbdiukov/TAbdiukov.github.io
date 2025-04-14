@@ -7,7 +7,7 @@ weight : 2 # answers always have weight=2
 tags: [tech, apple, mac, boot, mbr]
 ---
 
-**[Question](../apple-466739-question)**
+**[Answer](../answer/)**
 
 # Installing Windows 7 (and beyond) onto a mid-2010 Mac mini with Mac OS X Snow Leopard without Boot Camp or an optical (DVD) drive.
 

@@ -29,7 +29,7 @@ I would desire to perform the installation ***without*** any of the following.
 - No optical (DVD) drive 
 - No Boot Camp Assistant or it cannot be used properly.
 
-**[Answer](../apple-466739-answer)**
+**[Answer](../answer/)**
 
 ---------------------------------
 
