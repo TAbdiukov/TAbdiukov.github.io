@@ -9,8 +9,8 @@
     <h1>{{ .Title }}</h1>
 
     {{/* Get pages */}}
-    {{ $question := .Site.GetPage (printf "%squestion/" .RelPermalink) }}
-    {{ $answer := .Site.GetPage (printf "%sanswer/" .RelPermalink) }}
+    {{ $question := .Site.GetPage (printf "%squestion" .RelPermalink) }}
+    {{ $answer := .Site.GetPage (printf "%sanswer" .RelPermalink) }}
 
     <section class="meta-links" style="margin-bottom: 1em;">
     <p>
