@@ -3,6 +3,7 @@
 {{/* Check if we're at /stack/ or /stack/apple/ (top-level categories) */}}
 {{ $sectionPath := .File.Path }}
 {{ if or (eq $sectionPath "stack/_index.md") (eq (len .Sections) 0) }}
+
   {{/* This is the Q&A combined view (stack/category/question-id/_index.md) */}}
   <article>
     <h1>{{ .Title }}</h1>
