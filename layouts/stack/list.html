@@ -9,7 +9,7 @@
     <h1>{{ .Title }}</h1>
 
     <section class="question">
-      <h2>Question</h2>
+      <h1>Question</h1>
       {{ $q := .Site.GetPage (printf "%s/question" .RelPermalink) }}
       {{ with $q }}
         {{ .Content }}
@@ -19,7 +19,7 @@
     </section>
 
     <section class="answer">
-    <h2>Answer</h2>
+    <h1>Answer</h1>
       {{ $a := .Site.GetPage (printf "%s/answer" .RelPermalink) }}
       {{ with $a }}
         {{ .Content }}
