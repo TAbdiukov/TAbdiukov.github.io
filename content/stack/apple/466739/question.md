@@ -5,6 +5,7 @@ date:   2024-01-10 09:14:00 +0100
 categories: apple
 tags: [tech, apple, mac, boot, mbr]
 type: stack-entry
+weight: 1
 image: 6.b.Win7_aero_windowed.jpg
 ---
 
