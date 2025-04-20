@@ -8,7 +8,7 @@ type: stack-entry
 image: 6.b.Win7_aero_windowed.jpg
 ---
 
-![picture](./6.b.Win7_aero_windowed.jpg)
+![picture](../6.b.Win7_aero_windowed.jpg)
 
 # Question
 
