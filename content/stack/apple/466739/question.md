@@ -4,7 +4,7 @@ title:  "Installing Windows 7 (and beyond) onto a mid-2010 Mac mini with Mac OS 
 date:   2024-01-10 09:14:00 +0100
 categories: apple
 tags: [tech, apple, mac, boot, mbr]
-weight: 1 #Questions have always weight=1
+type: stack-entry
 image: 6.b.Win7_aero_windowed.jpg
 ---
 
