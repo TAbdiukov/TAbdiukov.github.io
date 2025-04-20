@@ -1,0 +1,25 @@
+{{ define "main" }}
+<article>
+  <h1>{{ .Title }}</h1>
+
+  <section class="question">
+    <h2>Question</h2>
+    {{ $q := .Site.GetPage (printf "%s/question" .RelPermalink) }}
+    {{ with $q }}
+      {{ .Content }}
+    {{ else }}
+      <p>No question found.</p>
+    {{ end }}
+  </section>
+
+  <section class="answer">
+    <h2>Answer</h2>
+    {{ $a := .Site.GetPage (printf "%s/answer" .RelPermalink) }}
+    {{ with $a }}
+      {{ .Content }}
+    {{ else }}
+      <p>No answer found.</p>
+    {{ end }}
+  </section>
+</article>
+{{ end }}
