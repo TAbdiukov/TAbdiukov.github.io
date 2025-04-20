@@ -39,7 +39,7 @@ favicon: true
 copyright: "Personal website of Tim Abdiukov"
 
 taxonomies:
-  stack: stacks  # Enables subcategories such as: /stack/apple
+  stack: stack  # Enables subcategories such as: /stack/apple
 
 # social links
 params:
