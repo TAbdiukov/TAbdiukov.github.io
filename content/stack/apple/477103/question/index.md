@@ -13,7 +13,7 @@ tags: [tech, apple, mac, bootcamp, wifi]
 
 ##### Trivia
 
-* Wi-Fi adapter: Qualcomm Atheros AR938x Wireless Network Adapter  
+* Wi-Fi adapter: Qualcomm Atheros AR938x Wireless Network Adapter
 * Operating system: Windows 10 x64 through Bootcamp.
 
 * The Wi-Fi router offers 2.4 GHz and 5 GHz Wi-Fi, at 802.11ac standard.
