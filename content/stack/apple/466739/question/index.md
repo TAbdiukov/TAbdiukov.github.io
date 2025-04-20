@@ -29,9 +29,3 @@ I would desire to perform the installation ***without*** any of the following.
 - <s>No third-party software</s> *(Third-party software, if any, should be minimal, and it should work with Mac OS X Snow Leopard)*
 - No optical (DVD) drive 
 - No Boot Camp Assistant or it cannot be used properly.
-
-**[Answer](../answer/)**
-
----------------------------------
-
-***Tim Abdiukov***

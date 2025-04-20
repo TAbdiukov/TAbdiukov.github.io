@@ -8,8 +8,6 @@ weight: 2
 type: stack-entry
 ---
 
-**[Answer](../answer/)**
-
 # Installing Windows 7 (and beyond) onto a mid-2010 Mac mini with Mac OS X Snow Leopard without Boot Camp or an optical (DVD) drive.
 
 In this guide, the following OS was used:
