@@ -9,7 +9,7 @@ weight: 1
 image: 6.b.Win7_aero_windowed.jpg
 ---
 
-![picture](../6.b.Win7_aero_windowed.jpg)
+![picture](./6.b.Win7_aero_windowed.jpg)
 
 # Question
 
