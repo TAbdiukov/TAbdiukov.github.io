@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "TryHackMe - fixes"
+title:  "TryHackMe – fixes"
 date:   2025-01-12 14:10:00 +1000
 categories: blog
 tags: [cloud, offsec]
