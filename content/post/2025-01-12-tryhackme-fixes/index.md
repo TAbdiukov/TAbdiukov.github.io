@@ -28,7 +28,7 @@ Yay! However, if SSH is utilized, there will be problems compiling software or g
 
 Luckily, someone compiled software we need: [https://github.com/r3motecontrol/Ghostpack-CompiledBinaries](https://github.com/r3motecontrol/Ghostpack-CompiledBinaries)
 
-On the AttackBox, open terminal tab and run the following commands,
+On AttackBox, open terminal tab and run the following commands,
 ```
 mkdir share && cd share
 git clone https://github.com/r3motecontrol/Ghostpack-CompiledBinaries
