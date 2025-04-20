@@ -3,6 +3,33 @@
 {{/* Check if we're at /stack/ or /stack/apple/ (top-level categories) */}}
 {{ $sectionPath := .File.Path }}
 {{ if or (eq $sectionPath "stack/_index.md") (eq (len .Sections) 0) }}
+  {{/* This is the Q&A combined view (stack/category/question-id/_index.md) */}}
+  <article>
+    <h1>{{ .Title }}</h1>
+
+    <section class="question">
+      <h2>Question</h2>
+      {{ $q := .Site.GetPage (printf "%squestion/" .RelPermalink) }}
+      {{ with $q }}
+        {{ .Content }}
+      {{ else }}
+        <p>No question found.</p>
+      {{ end }}
+    </section>
+
+    <section class="answer">
+      <h2>Answer</h2>
+      {{ $a := .Site.GetPage (printf "%sanswer/" .RelPermalink) }}
+      {{ with $a }}
+        {{ .Content }}
+      {{ else }}
+        <p>No answer found.</p>
+      {{ end }}
+    </section>
+  </article>
+
+{{ else }}
+
   {{- if .Page.Title }}
   <h1 class="page-title">{{ .Page.Title }}</h1>
   {{- else if isset .Data "Term" }}
@@ -61,34 +88,6 @@
   {{- end }}
   {{- end }}
   </ul>
-
-{{ else }}
-
-  {{/* This is the Q&A combined view (stack/category/question-id/_index.md) */}}
-  <article>
-    <h1>{{ .Title }}</h1>
-
-    <section class="question">
-      <h2>Question</h2>
-      {{ $q := .Site.GetPage (printf "%squestion/" .RelPermalink) }}
-      {{ with $q }}
-        {{ .Content }}
-      {{ else }}
-        <p>No question found.</p>
-      {{ end }}
-    </section>
-
-    <section class="answer">
-      <h2>Answer</h2>
-      {{ $a := .Site.GetPage (printf "%sanswer/" .RelPermalink) }}
-      {{ with $a }}
-        {{ .Content }}
-      {{ else }}
-        <p>No answer found.</p>
-      {{ end }}
-    </section>
-  </article>
-
 {{ end }}
 
 {{ end }}
