@@ -2,7 +2,7 @@
 
 {{/* Check if we're at /stack/ or /stack/apple/ (top-level categories) */}}
 {{ $sectionPath := .File.Path }}
-{{ if or (eq $sectionPath "stack/_index.md") (strings.HasSuffix $sectionPath "/_index.md") (eq (len .Sections) 0) }}
+{{ if or (eq $sectionPath "stack/_index.md") (eq (len .Sections) 0) }}
   {{- if .Page.Title }}
   <h1 class="page-title">{{ .Page.Title }}</h1>
   {{- else if isset .Data "Term" }}
