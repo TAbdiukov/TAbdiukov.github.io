@@ -1,21 +1,20 @@
 {{ define "main" }}
-<main class="stack-question">
+<article class="question-answer">
+  {{ $question := .Resources.GetMatch "question.md" }}
+  {{ $answer := .Resources.GetMatch "answer.md" }}
 
-  <h1>{{ .Title }}</h1>
-
-  <div class="question-container">
+  {{ if $question }}
+  <div class="qa-block question">
     <h2>Question</h2>
-    {{ with .File.Dir }}
-      {{ readFile (print . "question.md") | markdownify }}
-    {{ end }}
+    {{ $question.Content }}
   </div>
+  {{ end }}
 
-  <div class="answer-container">
+  {{ if $answer }}
+  <div class="qa-block answer">
     <h2>Answer</h2>
-    {{ with .File.Dir }}
-      {{ readFile (print . "answer.md") | markdownify }}
-    {{ end }}
+    {{ $answer.Content }}
   </div>
-
-</main>
+  {{ end }}
+</article>
 {{ end }}
