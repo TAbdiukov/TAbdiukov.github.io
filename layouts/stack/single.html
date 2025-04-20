@@ -3,23 +3,19 @@
 
   <h1>{{ .Title }}</h1>
 
-  {{ with .GetPage "question" }}
-    <section class="question">
-      <h2>Question</h2>
-      <div class="question-content">
-        {{ .Content }}
-      </div>
-    </section>
-  {{ end }}
+  <div class="question-container">
+    <h2>Question</h2>
+    {{ with .File.Dir }}
+      {{ readFile (print . "question.md") | markdownify }}
+    {{ end }}
+  </div>
 
-  {{ with .GetPage "answer" }}
-    <section class="answer">
-      <h2>Answer</h2>
-      <div class="answer-content">
-        {{ .Content }}
-      </div>
-    </section>
-  {{ end }}
+  <div class="answer-container">
+    <h2>Answer</h2>
+    {{ with .File.Dir }}
+      {{ readFile (print . "answer.md") | markdownify }}
+    {{ end }}
+  </div>
 
 </main>
 {{ end }}
