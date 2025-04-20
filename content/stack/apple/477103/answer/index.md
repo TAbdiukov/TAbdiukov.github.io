@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "iMac 12,1 (mid 2011) - Wi-Fi module becomes slow and unstable after sleep on Windows 10 – answer"
+title:  "iMac 12,1 (mid 2011) – Wi-Fi module becomes slow and unstable after sleep on Windows 10 – answer"
 date:   2024-12-01 13:51:00 +0100
 categories: apple
 weight: 2
