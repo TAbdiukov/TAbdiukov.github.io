@@ -8,24 +8,46 @@
   <article>
     <h1>{{ .Title }}</h1>
 
-    <section class="question">
-      <h1>Question</h1>
-      {{ $q := .Site.GetPage (printf "%s/question" .RelPermalink) }}
-      {{ with $q }}
-        {{ .Content }}
+    {{/* Get pages */}}
+    {{ $question := .Site.GetPage (printf "%squestion/" .RelPermalink) }}
+    {{ $answer := .Site.GetPage (printf "%sanswer/" .RelPermalink) }}
+
+    <section class="meta-links" style="margin-bottom: 1em;">
+    <p>
+      {{ if $question }}
+      <a href="{{ $question.RelPermalink }}">View only question</a>
       {{ else }}
-        <p>No question found.</p>
+      <span>No standalone question page</span>
       {{ end }}
+
+      {{ if and $question $answer }}
+      |
+      {{ end }}
+
+      {{ if $answer }}
+      <a href="{{ $answer.RelPermalink }}">View only answer</a>
+      {{ else }}
+      <span>No standalone answer page</span>
+      {{ end }}
+    </p>
     </section>
 
-    <section class="answer">
+    <section class="question">
+    <h1>Question</h1>
+    {{ with $question }}
+      {{ .Content }}
+    {{ else }}
+      <p><em>No question found.</em></p>
+    {{ end }}
+    </section>
+
+    <section class="answer" style="margin-top: 2em;">
     <h1>Answer</h1>
-      {{ $a := .Site.GetPage (printf "%s/answer" .RelPermalink) }}
-      {{ with $a }}
-        {{ .Content }}
-      {{ else }}
-        <p>No answer found.</p>
-      {{ end }}
+    {{ with $answer }}
+      {{ .Content }}
+    {{ else }}
+      <p><em>No answer found.</em></p>
+    {{ end }}
     </section>
   </article>
 
