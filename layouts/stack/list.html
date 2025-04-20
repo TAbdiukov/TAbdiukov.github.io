@@ -1,25 +1,94 @@
 {{ define "main" }}
-<article>
-  <h1>{{ .Title }}</h1>
 
-  <section class="question">
-    <h2>Question</h2>
-    {{ $q := .Site.GetPage (printf "%s/question" .RelPermalink) }}
-    {{ with $q }}
-      {{ .Content }}
-    {{ else }}
-      <p>No question found.</p>
-    {{ end }}
-  </section>
+{{/* Check if we're at /stack/ or /stack/apple/ (top-level categories) */}}
+{{ $sectionPath := .File.Path }}
+{{ if or (eq $sectionPath "stack/_index.md") (strings.HasSuffix $sectionPath "/_index.md") (eq (len .Sections) 0) }}
+  {{- if .Page.Title }}
+  <h1 class="page-title">{{ .Page.Title }}</h1>
+  {{- else if isset .Data "Term" }}
+  <h1 class="page-title">{{ humanize .Data.Term }}</h1>
+  {{- end -}}
+  {{ .Content }}
+  <ul class="posts flat">
+  {{- range .Data.Pages }}
+  {{- if (in .Site.Params.excludedTypes .Type) }}
+  {{- else }}
+  <li class="post">
+  <div class="post-header">
+  <div class="meta">
+  <div class="date">
+  <span class="day">{{ dateFormat "02" .Date }}</span>
+  <span class="rest">{{ if $.Site.Data.month }}{{ index $.Site.Data.month (printf "%d" .Date.Month) }} {{ .Date.Year }}{{ else }}{{ dateFormat "Jan 2006" .Date }}{{ end }}</span>
+  </div>
+  <div class="thumbnail">
+    {{if eq .Site.Params.thumbnails.enabled true }}
+      {{ if .Params.image }}
+        {{ $original := print (path.Base .Params.image) }}
+        {{ $originalImg := .Resources.GetMatch $original }}
+        {{ if $originalImg }}
+          {{ $thumbnailImg := $originalImg.Fit "200x100" }}
+          {{ printf `<img src="%s" alt="%s">` 
+            $thumbnailImg.RelPermalink .Title | safeHTML }}
+        {{end}}
+      {{end}}
+    {{end}}
+  </div>
+  </div>
+  <div class="matter">
+  <article>
+  <h3 class="title small"><a href="{{ .RelPermalink }}">{{.Title}}{{ partial "post_label.html" (dict "post" .)}}</a></h3>
+  {{- if not .Params.hidemeta }}
+  <p class="post-meta">
+  {{ partial "post_meta.html" . }}
+  </p>
+  {{- end }}
+  <span class="description">{{ if isset .Params "description" }}{{ .Description }}{{ else }}{{ .Plain  | htmlUnescape | safeHTML | truncate 140 }}{{ end }}</span>
+  <div class="description"><small>
+  {{ if eq .Site.Params.postDisplay.read_time true }}
+    {{printf `%d min read`  .ReadingTime | safeHTML }}
+  {{ end }}
+  {{ if eq .Site.Params.postDisplay.tags true }}
+    {{if eq .Site.Params.postDisplay.read_time true }} — {{ end }}
+    <kbd>{{ range .Params.tags }}
+    <a href="{{ "tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+    {{ end }}</kbd>
+  {{ end }}  
+  </small></div>
+  </article>
+  </div>
+  </div>
+  </li>
+  {{- end }}
+  {{- end }}
+  </ul>
 
-  <section class="answer">
-    <h2>Answer</h2>
-    {{ $a := .Site.GetPage (printf "%s/answer" .RelPermalink) }}
-    {{ with $a }}
-      {{ .Content }}
-    {{ else }}
-      <p>No answer found.</p>
-    {{ end }}
-  </section>
-</article>
+{{ else }}
+
+  {{/* This is the Q&A combined view (stack/category/question-id/_index.md) */}}
+  <article>
+    <h1>{{ .Title }}</h1>
+
+    <section class="question">
+      <h2>Question</h2>
+      {{ $q := .Site.GetPage (printf "%squestion/" .RelPermalink) }}
+      {{ with $q }}
+        {{ .Content }}
+      {{ else }}
+        <p>No question found.</p>
+      {{ end }}
+    </section>
+
+    <section class="answer">
+      <h2>Answer</h2>
+      {{ $a := .Site.GetPage (printf "%sanswer/" .RelPermalink) }}
+      {{ with $a }}
+        {{ .Content }}
+      {{ else }}
+        <p>No answer found.</p>
+      {{ end }}
+    </section>
+  </article>
+
+{{ end }}
+
 {{ end }}
