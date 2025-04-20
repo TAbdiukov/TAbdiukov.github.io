@@ -5,7 +5,6 @@ date:   2024-01-10 10:14:00 +0100
 categories: apple
 tags: [tech, apple, mac, boot, mbr]
 weight: 2
-type: stack-entry
 ---
 
 # Installing Windows 7 (and beyond) onto a mid-2010 Mac mini with Mac OS X Snow Leopard without Boot Camp or an optical (DVD) drive.

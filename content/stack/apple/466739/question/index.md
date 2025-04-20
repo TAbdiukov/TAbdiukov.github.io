@@ -4,14 +4,11 @@ title:  "Installing Windows 7 (and beyond) onto a mid-2010 Mac mini with Mac OS 
 date:   2024-01-10 09:14:00 +0100
 categories: apple
 tags: [tech, apple, mac, boot, mbr]
-type: stack-entry
 weight: 1
 image: 6.b.Win7_aero_windowed.jpg
 ---
 
 ![picture](./6.b.Win7_aero_windowed.jpg)
-
-# Question
 
 This problem is very similar to [How to install Windows 10 into a 2011 iMac without using the Boot Camp Assistant, an optical (DVD) drive or third party tools? - Ask Different](https://apple.stackexchange.com/q/308743/369389), with the following additional limitations,
 

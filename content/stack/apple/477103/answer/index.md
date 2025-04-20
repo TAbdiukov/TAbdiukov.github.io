@@ -7,9 +7,7 @@ weight: 2
 tags: [tech, apple, mac, bootcamp, wifi]
 ---
 
-**[Question](../question/)**
-
-# iMac 12,1 (mid 2011) – Wi-Fi module becomes slow and unstable after sleep on Windows 10 – fix
+### iMac 12,1 (mid 2011) – Wi-Fi module becomes slow and unstable after sleep on Windows 10 – fix
 
 Through trial and error, I discovered that official drivers offered by Apple (as part of all-in-one driver packages), Microsoft (through Windows Update), and old vendor drivers by Acer, Asus and MSI do demonstrate this issue.
 
