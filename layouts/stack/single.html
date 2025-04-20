@@ -1,0 +1,25 @@
+{{ define "main" }}
+<main class="stack-question">
+
+  <h1>{{ .Title }}</h1>
+
+  {{ with .GetPage "question" }}
+    <section class="question">
+      <h2>Question</h2>
+      <div class="question-content">
+        {{ .Content }}
+      </div>
+    </section>
+  {{ end }}
+
+  {{ with .GetPage "answer" }}
+    <section class="answer">
+      <h2>Answer</h2>
+      <div class="answer-content">
+        {{ .Content }}
+      </div>
+    </section>
+  {{ end }}
+
+</main>
+{{ end }}
