@@ -36,7 +36,7 @@ menu:
 theme: hugo-vitae-nord
 favicon: true
 
-copyright: "Personal blog of Tim Abdiukov"
+copyright: "Personal website of Tim Abdiukov"
 
 taxonomies:
   stack: stacks  # Enables subcategories such as: /stack/apple
