@@ -32,7 +32,5 @@ weight: 2
 ### A few extra tips,
 
 * One of the most important tweaks for the old iPhones – "Speed Intensifier". Although designed for iOS, it can help our old iPhone really shine. Surprisingly, it works flawlessly on iOS 6.
-
 * AppSync (install any IPA files), as per version 72.0 still supports iOS 6. You can get it on `http://cydia.angelxwind.net` or `http://repo.hackyouriphone.org`
-
 * ultrasn0w (unlock from all carriers) is no longer readily available. The last public version is 1.8.5, and it is still available on odd websites online and [Momentum-Dev Cydia Repository](https://mtmdev.org/).
