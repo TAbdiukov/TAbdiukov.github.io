@@ -6,7 +6,7 @@ tags: [tech, apple, jailbreak, boot, legacy]
 weight: 2
 ---
 
-# Legacy Jailbreak Procedure
+## Legacy Jailbreak Procedure
 
 1. Get a physical desktop/laptop running older Windows, ideally 32-bit (not 64-bit), to ensure driver interoperability with older iTunes and jailbreaking tools. The jailbreaking tools rely on iTunes metadata, which is saved in the registry, but information gets misinterpreted on 64-bit OS.
 	
