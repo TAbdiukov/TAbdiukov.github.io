@@ -112,7 +112,7 @@ Recall that in our example in particular, I analyze how and where the in‑game 
 1. Get the game time to hit midnight
 
 ![b7df13d8895bbef14af51b25a751141f.png](./_resources/b7df13d8895bbef14af51b25a751141f.png) | 
----- 
+----  |
 PPSSPP - In-game near midnight
 
 2. Observe the breakpoint being hit.
