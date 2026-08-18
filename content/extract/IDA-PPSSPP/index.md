@@ -377,8 +377,6 @@ In this example: last "z_un" function is at 08B72EF0, and its last address is at
 ### 7.2 IDA v9.2: Force-creating code and functions
 IDA as of 9.2, does not always create Allegrex functions. Based on [this tip](https://hex-rays.com/blog/igors-tip-of-the-week-152-force-creating-functions), force-create a function.
 
-#### 7.2.1 Force a conversion to code
-
 In IDA Pro,
 1. Press <kbd>G</kbd> (for 'goto'), paste the **range start** address (<kbd>Ctrl+V</kbd>), e.g., `08804000`
 
