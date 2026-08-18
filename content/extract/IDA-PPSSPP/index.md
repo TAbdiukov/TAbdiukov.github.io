@@ -66,7 +66,7 @@ I already know from my own ArtMoney table that the in-game hour is stored at the
 We can use minutes, too, but I opted to use hours for a breakpoint.
 
 ![31854156d804a4c0655ca5d667b2b5b0.png](./_resources/31854156d804a4c0655ca5d667b2b5b0.png) |  
-----
+---- |
 Note: in ArtMoney, "Address" is the PC address. I need Emul. Address shown below.
 
 ### Example step 2.2: Confirm parameter validity for the game ROM and session
