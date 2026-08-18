@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Analysing PPSSPP RAM with IDA Pro"
-date:   2026-08-18 03:44:45 +0100
+date:   2026-08-18 03:40:45 +0100
 categories: extract
 tags: [extract, forensics, ppsspp, psp, cso, ida]
 subtitle: "Analysing PPSSPP RAM with IDA Pro"
