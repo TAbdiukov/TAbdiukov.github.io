@@ -93,7 +93,7 @@ Note: You can load state later by pressing <kbd>F4</kbd>.
 ### Example step 3.2: Add a breakpoint
 
 ![407e4946fadb7a58a73c4d18b4385e75.png](./_resources/407e4946fadb7a58a73c4d18b4385e75.png) | 
----- 
+---- |
 Don't forget to click "OK"
 
 
