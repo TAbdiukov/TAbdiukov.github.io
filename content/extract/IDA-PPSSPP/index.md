@@ -126,7 +126,7 @@ PPSSPP Debugger - hit at 08941AB0
  (basically, same function means the same background color AND you can trace no background color changes from the previous hit)
 
 ![9ab60d0c6289aad0869ae9b941c6be36.png](./_resources/9ab60d0c6289aad0869ae9b941c6be36.png) | 
----- 
+----  |
 "Go"
 
 * I got another hit at `08941AC8`, which is a **different** address, but still within the **same** function
@@ -152,7 +152,7 @@ Repeat some of the steps from part 3: Get the game time to hit midnight, observe
 1. Get the game time to hit midnight
 
 ![b7df13d8895bbef14af51b25a751141f.png](./_resources/b7df13d8895bbef14af51b25a751141f.png) | 
----- 
+---- |
 PPSSPP - In-game near midnight
 
 2. Observe the breakpoint being hit,
@@ -325,7 +325,7 @@ Q: Disassemble in 64-bit or 32-bit?
 A: Since Sony PSP is 32-bit, disassemble in 32-bit. Hence the answer for the question of "Do you want to disassemble it as 64-bit code?" is "No"
 
 ![6fa5e230959bdb007fc7fdf5f4389da6.png](./_resources/6fa5e230959bdb007fc7fdf5f4389da6.png) | 
----- 
+---- |
 Do you want to disassemble it as 64-bit code? → [ No ]
 
 ### 6.5 Sanity check (avoid bogus sections)
