@@ -4,11 +4,11 @@ title:  "Analysing PPSSPP RAM with IDA Pro"
 date:   2026-08-18 03:40:45 +0100
 categories: extract
 tags: [extract, forensics, ppsspp, psp, cso, ida]
-subtitle: "Analysing PPSSPP RAM with IDA Pro"
+subtitle: "With a bonus part on accelerating your analysis with ChatGPT"
 ---
 
 # Analysing PPSSPP RAM with IDA Pro
-*with bonus steps on potentially accelerating your analysis with ChatGPT*
+*with a bonus part on accelerating your analysis with ChatGPT*
 
 In this walkthrough, to demonstrate the process, we will tackle a sample problem. We want to learn more about GTA Vice City Stories USA (later referred to as GTA:VCS) internal logic that handles in-game time of day, in particular, how and where the in‑game hour changes from 23 to 0 (right after 23:59 in in-game time of day). 
 
@@ -415,7 +415,7 @@ The result (I added some labels and used decimal constants)
 
 ![001e58b8f6bf3582335092d6192845bc.png](./_resources/001e58b8f6bf3582335092d6192845bc.png)
 
-## Bonus steps: Utilize ChatGPT to accelerate your IDA Pro analysis
+## Bonus part: Utilize ChatGPT to accelerate your IDA Pro analysis
 *paid ChatGPT may be required*
 
 1. In IDA Pro may produce a C-file for analysis by accessing File -> Produce file -> Create C file (or <kbd>Ctrl+F5</kbd>). Give it a meaningful name, e.g., `ppsspp-ram-game-[title-identifier]-[version].c`   
